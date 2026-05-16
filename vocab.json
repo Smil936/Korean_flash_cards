@@ -1,0 +1,8441 @@
+[
+  {
+    "word": "나",
+    "romanization": "na",
+    "meaning": "I, me (informal)",
+    "sentence": "나는 학생이에요.",
+    "translation": "I am a student.",
+    "grammar": [
+      {
+        "segment": "나는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "저",
+    "romanization": "jeo",
+    "meaning": "I, me (formal)",
+    "sentence": "저는 선생님이에요.",
+    "translation": "I am a teacher.",
+    "grammar": [
+      {
+        "segment": "저는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "너",
+    "romanization": "neo",
+    "meaning": "you (informal)",
+    "sentence": "너는 친구야.",
+    "translation": "You are a friend.",
+    "grammar": [
+      {
+        "segment": "너는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "우리",
+    "romanization": "uri",
+    "meaning": "we, our",
+    "sentence": "우리는 한국어를 공부해요.",
+    "translation": "We study Korean.",
+    "grammar": [
+      {
+        "segment": "우리는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "한국어를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "이름",
+    "romanization": "ireum",
+    "meaning": "name",
+    "sentence": "제 이름은 지민이에요.",
+    "translation": "My name is Jimin.",
+    "grammar": [
+      {
+        "segment": "이름은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "학교",
+    "romanization": "hakgyo",
+    "meaning": "school",
+    "sentence": "저는 학교에 가요.",
+    "translation": "I go to school.",
+    "grammar": [
+      {
+        "segment": "저는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "학교에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "집",
+    "romanization": "jip",
+    "meaning": "house, home",
+    "sentence": "집에 있어요.",
+    "translation": "I am at home.",
+    "grammar": [
+      {
+        "segment": "집에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "물",
+    "romanization": "mul",
+    "meaning": "water",
+    "sentence": "물을 마셔요.",
+    "translation": "I drink water.",
+    "grammar": [
+      {
+        "segment": "물을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "밥",
+    "romanization": "bap",
+    "meaning": "rice, meal",
+    "sentence": "밥을 먹어요.",
+    "translation": "I eat rice.",
+    "grammar": [
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "책",
+    "romanization": "chaek",
+    "meaning": "book",
+    "sentence": "책을 읽어요.",
+    "translation": "I read a book.",
+    "grammar": [
+      {
+        "segment": "책을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "선생님",
+    "romanization": "seonsaengnim",
+    "meaning": "teacher",
+    "sentence": "선생님이 왔어요.",
+    "translation": "The teacher came.",
+    "grammar": [
+      {
+        "segment": "선생님이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "친구",
+    "romanization": "chingu",
+    "meaning": "friend",
+    "sentence": "친구가 있어요.",
+    "translation": "I have a friend.",
+    "grammar": [
+      {
+        "segment": "친구가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "엄마",
+    "romanization": "eomma",
+    "meaning": "mom, mother",
+    "sentence": "엄마가 요리해요.",
+    "translation": "Mom is cooking.",
+    "grammar": [
+      {
+        "segment": "엄마가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "아빠",
+    "romanization": "appa",
+    "meaning": "dad, father",
+    "sentence": "아빠는 회사에 가요.",
+    "translation": "Dad goes to the office.",
+    "grammar": [
+      {
+        "segment": "아빠는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "회사에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "오빠",
+    "romanization": "oppa",
+    "meaning": "older brother (female speaker)",
+    "sentence": "오빠가 음악을 들어요.",
+    "translation": "My older brother listens to music.",
+    "grammar": [
+      {
+        "segment": "오빠가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "음악을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "언니",
+    "romanization": "eonni",
+    "meaning": "older sister (female speaker)",
+    "sentence": "언니는 대학생이에요.",
+    "translation": "My older sister is a university student.",
+    "grammar": [
+      {
+        "segment": "언니는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "형",
+    "romanization": "hyeong",
+    "meaning": "older brother (male speaker)",
+    "sentence": "형은 회사원이에요.",
+    "translation": "My older brother is an office worker.",
+    "grammar": [
+      {
+        "segment": "형은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "누나",
+    "romanization": "nuna",
+    "meaning": "older sister (male speaker)",
+    "sentence": "누나가 밥을 해요.",
+    "translation": "My older sister makes food.",
+    "grammar": [
+      {
+        "segment": "누나가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "남동생",
+    "romanization": "namdongsaeng",
+    "meaning": "younger brother",
+    "sentence": "남동생은 초등학생이에요.",
+    "translation": "My younger brother is in elementary school.",
+    "grammar": [
+      {
+        "segment": "남동생은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "여동생",
+    "romanization": "yeodongsaeng",
+    "meaning": "younger sister",
+    "sentence": "여동생이 피아노를 쳐요.",
+    "translation": "My younger sister plays the piano.",
+    "grammar": [
+      {
+        "segment": "여동생이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "피아노를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "할머니",
+    "romanization": "halmeoni",
+    "meaning": "grandmother",
+    "sentence": "할머니가 집에 오셨어요.",
+    "translation": "Grandmother came home.",
+    "grammar": [
+      {
+        "segment": "할머니가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "집에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "할아버지",
+    "romanization": "harabeoji",
+    "meaning": "grandfather",
+    "sentence": "할아버지께서 책을 읽으세요.",
+    "translation": "Grandfather reads a book.",
+    "grammar": [
+      {
+        "segment": "할아버지께서",
+        "marker": "honorific subject 께서",
+        "color": "blue"
+      },
+      {
+        "segment": "책을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "사람",
+    "romanization": "saram",
+    "meaning": "person, people",
+    "sentence": "좋은 사람이 돼요.",
+    "translation": "Become a good person.",
+    "grammar": [
+      {
+        "segment": "사람이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "남자",
+    "romanization": "namja",
+    "meaning": "man, male",
+    "sentence": "저 남자는 누구예요?",
+    "translation": "Who is that man?",
+    "grammar": [
+      {
+        "segment": "남자는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "여자",
+    "romanization": "yeoja",
+    "meaning": "woman, female",
+    "sentence": "그 여자가 노래해요.",
+    "translation": "That woman is singing.",
+    "grammar": [
+      {
+        "segment": "여자가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "아이",
+    "romanization": "ai",
+    "meaning": "child, kid",
+    "sentence": "아이가 공원에서 놀아요.",
+    "translation": "The child plays at the park.",
+    "grammar": [
+      {
+        "segment": "아이가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "공원에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "아기",
+    "romanization": "agi",
+    "meaning": "baby",
+    "sentence": "아기가 자고 있어요.",
+    "translation": "The baby is sleeping.",
+    "grammar": [
+      {
+        "segment": "아기가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "나이",
+    "romanization": "nai",
+    "meaning": "age",
+    "sentence": "나이가 어떻게 돼요?",
+    "translation": "How old are you?",
+    "grammar": [
+      {
+        "segment": "나이가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "네",
+    "romanization": "ne",
+    "meaning": "yes",
+    "sentence": "네, 맞아요.",
+    "translation": "Yes, that's right.",
+    "grammar": [],
+    "level": 1
+  },
+  {
+    "word": "아니요",
+    "romanization": "aniyo",
+    "meaning": "no",
+    "sentence": "아니요, 학생이 아니에요.",
+    "translation": "No, I am not a student.",
+    "grammar": [],
+    "level": 1
+  },
+  {
+    "word": "안녕하세요",
+    "romanization": "annyeonghaseyo",
+    "meaning": "hello (polite)",
+    "sentence": "선생님께 안녕하세요 했어요.",
+    "translation": "I said hello to the teacher.",
+    "grammar": [
+      {
+        "segment": "선생님께",
+        "marker": "recipient (honorific) 께",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "감사합니다",
+    "romanization": "gamsahamnida",
+    "meaning": "thank you (formal)",
+    "sentence": "도와줘서 감사합니다.",
+    "translation": "Thank you for helping me.",
+    "grammar": [],
+    "level": 1
+  },
+  {
+    "word": "죄송합니다",
+    "romanization": "joesonghamnida",
+    "meaning": "I am sorry (formal)",
+    "sentence": "늦어서 죄송합니다.",
+    "translation": "I am sorry for being late.",
+    "grammar": [],
+    "level": 1
+  },
+  {
+    "word": "괜찮아요",
+    "romanization": "gwaenchanayo",
+    "meaning": "it's okay / are you alright?",
+    "sentence": "괜찮아요? 다쳤어요?",
+    "translation": "Are you okay? Are you hurt?",
+    "grammar": [],
+    "level": 1
+  },
+  {
+    "word": "이것",
+    "romanization": "igeot",
+    "meaning": "this (thing)",
+    "sentence": "이것은 뭐예요?",
+    "translation": "What is this?",
+    "grammar": [
+      {
+        "segment": "이것은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "저것",
+    "romanization": "jeogeot",
+    "meaning": "that (thing, over there)",
+    "sentence": "저것은 제 가방이에요.",
+    "translation": "That is my bag.",
+    "grammar": [
+      {
+        "segment": "저것은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "그것",
+    "romanization": "geugeot",
+    "meaning": "that (thing, near listener)",
+    "sentence": "그것을 주세요.",
+    "translation": "Please give me that.",
+    "grammar": [
+      {
+        "segment": "그것을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "여기",
+    "romanization": "yeogi",
+    "meaning": "here",
+    "sentence": "여기에 앉으세요.",
+    "translation": "Please sit here.",
+    "grammar": [
+      {
+        "segment": "여기에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "거기",
+    "romanization": "geogi",
+    "meaning": "there (near listener)",
+    "sentence": "거기에 뭐가 있어요?",
+    "translation": "What is there?",
+    "grammar": [
+      {
+        "segment": "거기에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "뭐가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "저기",
+    "romanization": "jeogi",
+    "meaning": "over there",
+    "sentence": "저기에 화장실이 있어요.",
+    "translation": "There is a restroom over there.",
+    "grammar": [
+      {
+        "segment": "저기에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "화장실이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "하나",
+    "romanization": "hana",
+    "meaning": "one (native Korean)",
+    "sentence": "사과가 하나 있어요.",
+    "translation": "There is one apple.",
+    "grammar": [
+      {
+        "segment": "사과가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "둘",
+    "romanization": "dul",
+    "meaning": "two (native Korean)",
+    "sentence": "의자가 둘 있어요.",
+    "translation": "There are two chairs.",
+    "grammar": [
+      {
+        "segment": "의자가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "셋",
+    "romanization": "set",
+    "meaning": "three (native Korean)",
+    "sentence": "친구가 셋이에요.",
+    "translation": "There are three friends.",
+    "grammar": [
+      {
+        "segment": "친구가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "넷",
+    "romanization": "net",
+    "meaning": "four (native Korean)",
+    "sentence": "사람이 넷이에요.",
+    "translation": "There are four people.",
+    "grammar": [
+      {
+        "segment": "사람이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "다섯",
+    "romanization": "daseot",
+    "meaning": "five (native Korean)",
+    "sentence": "사탕이 다섯 개 있어요.",
+    "translation": "There are five candies.",
+    "grammar": [
+      {
+        "segment": "사탕이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 1
+  },
+  {
+    "word": "방",
+    "romanization": "bang",
+    "meaning": "room",
+    "sentence": "방이 넓어요.",
+    "translation": "The room is spacious.",
+    "grammar": [
+      {
+        "segment": "방이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "화장실",
+    "romanization": "hwajangsil",
+    "meaning": "bathroom, restroom",
+    "sentence": "화장실이 어디예요?",
+    "translation": "Where is the bathroom?",
+    "grammar": [
+      {
+        "segment": "화장실이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "부엌",
+    "romanization": "bueok",
+    "meaning": "kitchen",
+    "sentence": "부엌에서 요리해요.",
+    "translation": "I cook in the kitchen.",
+    "grammar": [
+      {
+        "segment": "부엌에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "거실",
+    "romanization": "geosil",
+    "meaning": "living room",
+    "sentence": "거실에서 TV를 봐요.",
+    "translation": "I watch TV in the living room.",
+    "grammar": [
+      {
+        "segment": "거실에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "TV를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "침대",
+    "romanization": "chimdae",
+    "meaning": "bed",
+    "sentence": "침대에서 자요.",
+    "translation": "I sleep on the bed.",
+    "grammar": [
+      {
+        "segment": "침대에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "책상",
+    "romanization": "chaeksang",
+    "meaning": "desk",
+    "sentence": "책상 위에 책이 있어요.",
+    "translation": "There is a book on the desk.",
+    "grammar": [
+      {
+        "segment": "책상 위에",
+        "marker": "location 위에 (on top)",
+        "color": "purple"
+      },
+      {
+        "segment": "책이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "의자",
+    "romanization": "uija",
+    "meaning": "chair",
+    "sentence": "의자에 앉으세요.",
+    "translation": "Please sit on the chair.",
+    "grammar": [
+      {
+        "segment": "의자에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "소파",
+    "romanization": "sopa",
+    "meaning": "sofa, couch",
+    "sentence": "소파에 앉아서 쉬어요.",
+    "translation": "I sit on the sofa and rest.",
+    "grammar": [
+      {
+        "segment": "소파에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "문",
+    "romanization": "mun",
+    "meaning": "door, gate",
+    "sentence": "문을 열어 주세요.",
+    "translation": "Please open the door.",
+    "grammar": [
+      {
+        "segment": "문을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "창문",
+    "romanization": "changmun",
+    "meaning": "window",
+    "sentence": "창문을 닫아요.",
+    "translation": "I close the window.",
+    "grammar": [
+      {
+        "segment": "창문을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "냉장고",
+    "romanization": "naengjanggo",
+    "meaning": "refrigerator",
+    "sentence": "냉장고에 음식이 없어요.",
+    "translation": "There is no food in the refrigerator.",
+    "grammar": [
+      {
+        "segment": "냉장고에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "음식이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "세탁기",
+    "romanization": "setakgi",
+    "meaning": "washing machine",
+    "sentence": "세탁기가 고장났어요.",
+    "translation": "The washing machine is broken.",
+    "grammar": [
+      {
+        "segment": "세탁기가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "에어컨",
+    "romanization": "eekon",
+    "meaning": "air conditioner",
+    "sentence": "에어컨을 켜도 돼요?",
+    "translation": "May I turn on the air conditioner?",
+    "grammar": [
+      {
+        "segment": "에어컨을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "가방",
+    "romanization": "gabang",
+    "meaning": "bag, backpack",
+    "sentence": "가방 안에 뭐가 있어요?",
+    "translation": "What is inside the bag?",
+    "grammar": [
+      {
+        "segment": "가방 안에",
+        "marker": "location 안에 (inside)",
+        "color": "purple"
+      },
+      {
+        "segment": "뭐가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "지갑",
+    "romanization": "jigap",
+    "meaning": "wallet, purse",
+    "sentence": "지갑을 잃어버렸어요.",
+    "translation": "I lost my wallet.",
+    "grammar": [
+      {
+        "segment": "지갑을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "핸드폰",
+    "romanization": "haendeupon",
+    "meaning": "cell phone",
+    "sentence": "핸드폰이 없어요.",
+    "translation": "I don't have my phone.",
+    "grammar": [
+      {
+        "segment": "핸드폰이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "컴퓨터",
+    "romanization": "keompyuteo",
+    "meaning": "computer",
+    "sentence": "컴퓨터로 일해요.",
+    "translation": "I work on the computer.",
+    "grammar": [
+      {
+        "segment": "컴퓨터로",
+        "marker": "means 로",
+        "color": "orange"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "텔레비전",
+    "romanization": "tellebijeon",
+    "meaning": "television, TV",
+    "sentence": "텔레비전을 너무 많이 봐요.",
+    "translation": "I watch TV too much.",
+    "grammar": [
+      {
+        "segment": "텔레비전을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "시계",
+    "romanization": "sigye",
+    "meaning": "clock, watch",
+    "sentence": "시계가 빨라요.",
+    "translation": "The clock is fast.",
+    "grammar": [
+      {
+        "segment": "시계가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "사진",
+    "romanization": "sajin",
+    "meaning": "photo, picture",
+    "sentence": "사진을 찍어요.",
+    "translation": "I take a photo.",
+    "grammar": [
+      {
+        "segment": "사진을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "안경",
+    "romanization": "angyeong",
+    "meaning": "glasses",
+    "sentence": "안경을 쓰고 있어요.",
+    "translation": "I am wearing glasses.",
+    "grammar": [
+      {
+        "segment": "안경을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "우산",
+    "romanization": "usan",
+    "meaning": "umbrella",
+    "sentence": "우산이 필요해요.",
+    "translation": "I need an umbrella.",
+    "grammar": [
+      {
+        "segment": "우산이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "열쇠",
+    "romanization": "yeolsoe",
+    "meaning": "key",
+    "sentence": "열쇠를 찾고 있어요.",
+    "translation": "I am looking for the key.",
+    "grammar": [
+      {
+        "segment": "열쇠를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "수건",
+    "romanization": "sugeon",
+    "meaning": "towel",
+    "sentence": "수건이 젖어 있어요.",
+    "translation": "The towel is wet.",
+    "grammar": [
+      {
+        "segment": "수건이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "비누",
+    "romanization": "binu",
+    "meaning": "soap",
+    "sentence": "비누로 손을 씻어요.",
+    "translation": "I wash my hands with soap.",
+    "grammar": [
+      {
+        "segment": "비누로",
+        "marker": "means 로",
+        "color": "orange"
+      },
+      {
+        "segment": "손을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "칫솔",
+    "romanization": "chitsol",
+    "meaning": "toothbrush",
+    "sentence": "아침에 칫솔로 이를 닦아요.",
+    "translation": "I brush my teeth with a toothbrush in the morning.",
+    "grammar": [
+      {
+        "segment": "아침에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "칫솔로",
+        "marker": "means 로",
+        "color": "orange"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "포크",
+    "romanization": "pokeu",
+    "meaning": "fork",
+    "sentence": "포크로 음식을 먹어요.",
+    "translation": "I eat food with a fork.",
+    "grammar": [
+      {
+        "segment": "포크로",
+        "marker": "means 로",
+        "color": "orange"
+      },
+      {
+        "segment": "음식을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "젓가락",
+    "romanization": "jeotgarak",
+    "meaning": "chopsticks",
+    "sentence": "젓가락으로 밥을 먹어요.",
+    "translation": "I eat rice with chopsticks.",
+    "grammar": [
+      {
+        "segment": "젓가락으로",
+        "marker": "means 으로",
+        "color": "orange"
+      },
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "숟가락",
+    "romanization": "sutgarak",
+    "meaning": "spoon",
+    "sentence": "숟가락으로 국을 떠요.",
+    "translation": "I scoop soup with a spoon.",
+    "grammar": [
+      {
+        "segment": "숟가락으로",
+        "marker": "means 으로",
+        "color": "orange"
+      },
+      {
+        "segment": "국을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "접시",
+    "romanization": "jeopsi",
+    "meaning": "plate, dish",
+    "sentence": "접시에 음식을 담아요.",
+    "translation": "I put food on the plate.",
+    "grammar": [
+      {
+        "segment": "접시에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "음식을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "컵",
+    "romanization": "keop",
+    "meaning": "cup, glass",
+    "sentence": "컵에 물을 따라요.",
+    "translation": "I pour water into the cup.",
+    "grammar": [
+      {
+        "segment": "컵에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "물을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "냄비",
+    "romanization": "naembi",
+    "meaning": "pot, saucepan",
+    "sentence": "냄비에 물을 끓여요.",
+    "translation": "I boil water in the pot.",
+    "grammar": [
+      {
+        "segment": "냄비에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "물을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "빵",
+    "romanization": "ppang",
+    "meaning": "bread",
+    "sentence": "빵을 구워요.",
+    "translation": "I bake bread.",
+    "grammar": [
+      {
+        "segment": "빵을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "우유",
+    "romanization": "uyu",
+    "meaning": "milk",
+    "sentence": "우유를 매일 마셔요.",
+    "translation": "I drink milk every day.",
+    "grammar": [
+      {
+        "segment": "우유를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "커피",
+    "romanization": "keopi",
+    "meaning": "coffee",
+    "sentence": "커피를 좋아해요.",
+    "translation": "I like coffee.",
+    "grammar": [
+      {
+        "segment": "커피를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "차",
+    "romanization": "cha",
+    "meaning": "tea; car",
+    "sentence": "차를 한 잔 마셔요.",
+    "translation": "I drink a cup of tea.",
+    "grammar": [
+      {
+        "segment": "차를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "주스",
+    "romanization": "juseu",
+    "meaning": "juice",
+    "sentence": "주스가 맛있어요.",
+    "translation": "The juice is delicious.",
+    "grammar": [
+      {
+        "segment": "주스가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "사과",
+    "romanization": "sagwa",
+    "meaning": "apple",
+    "sentence": "사과를 하나 먹었어요.",
+    "translation": "I ate one apple.",
+    "grammar": [
+      {
+        "segment": "사과를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "바나나",
+    "romanization": "banana",
+    "meaning": "banana",
+    "sentence": "바나나가 노래요.",
+    "translation": "The banana is yellow.",
+    "grammar": [
+      {
+        "segment": "바나나가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "고기",
+    "romanization": "gogi",
+    "meaning": "meat",
+    "sentence": "고기를 구워요.",
+    "translation": "I grill meat.",
+    "grammar": [
+      {
+        "segment": "고기를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "채소",
+    "romanization": "chaeso",
+    "meaning": "vegetables",
+    "sentence": "채소를 많이 먹어야 해요.",
+    "translation": "I should eat a lot of vegetables.",
+    "grammar": [
+      {
+        "segment": "채소를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "국",
+    "romanization": "guk",
+    "meaning": "soup, broth",
+    "sentence": "국이 뜨거워요.",
+    "translation": "The soup is hot.",
+    "grammar": [
+      {
+        "segment": "국이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "김치",
+    "romanization": "kimchi",
+    "meaning": "kimchi",
+    "sentence": "김치는 한국 음식이에요.",
+    "translation": "Kimchi is Korean food.",
+    "grammar": [
+      {
+        "segment": "김치는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "된장",
+    "romanization": "doenjang",
+    "meaning": "fermented soybean paste",
+    "sentence": "된장찌개를 끓여요.",
+    "translation": "I make doenjang stew.",
+    "grammar": [
+      {
+        "segment": "된장찌개를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "라면",
+    "romanization": "ramyeon",
+    "meaning": "instant noodles, ramen",
+    "sentence": "라면을 끓여 먹어요.",
+    "translation": "I boil and eat ramen.",
+    "grammar": [
+      {
+        "segment": "라면을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "계란",
+    "romanization": "gyeran",
+    "meaning": "egg",
+    "sentence": "계란을 삶아요.",
+    "translation": "I boil an egg.",
+    "grammar": [
+      {
+        "segment": "계란을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "설탕",
+    "romanization": "seoltang",
+    "meaning": "sugar",
+    "sentence": "커피에 설탕을 넣어요?",
+    "translation": "Do you put sugar in your coffee?",
+    "grammar": [
+      {
+        "segment": "커피에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "설탕을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "소금",
+    "romanization": "sogeum",
+    "meaning": "salt",
+    "sentence": "소금을 조금만 넣어요.",
+    "translation": "I add just a little salt.",
+    "grammar": [
+      {
+        "segment": "소금을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "생선",
+    "romanization": "saengseon",
+    "meaning": "fish (as food)",
+    "sentence": "생선을 구워서 먹어요.",
+    "translation": "I grill fish and eat it.",
+    "grammar": [
+      {
+        "segment": "생선을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "음식",
+    "romanization": "eumsik",
+    "meaning": "food",
+    "sentence": "한국 음식이 좋아요.",
+    "translation": "I like Korean food.",
+    "grammar": [
+      {
+        "segment": "한국 음식이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "과일",
+    "romanization": "gwail",
+    "meaning": "fruit",
+    "sentence": "과일을 매일 먹어요.",
+    "translation": "I eat fruit every day.",
+    "grammar": [
+      {
+        "segment": "과일을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "야채",
+    "romanization": "yachae",
+    "meaning": "vegetables (casual/colloquial)",
+    "sentence": "야채 볶음을 만들어요.",
+    "translation": "I make stir-fried vegetables.",
+    "grammar": [
+      {
+        "segment": "야채 볶음을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "치킨",
+    "romanization": "chikin",
+    "meaning": "fried chicken (Korean style)",
+    "sentence": "치킨이 제일 맛있어요.",
+    "translation": "Fried chicken is the most delicious.",
+    "grammar": [
+      {
+        "segment": "치킨이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "피자",
+    "romanization": "pija",
+    "meaning": "pizza",
+    "sentence": "피자를 시켜 먹어요.",
+    "translation": "I order pizza and eat it.",
+    "grammar": [
+      {
+        "segment": "피자를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "시장",
+    "romanization": "sijang",
+    "meaning": "market",
+    "sentence": "시장에서 과일을 사요.",
+    "translation": "I buy fruit at the market.",
+    "grammar": [
+      {
+        "segment": "시장에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "과일을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "병원",
+    "romanization": "byeongwon",
+    "meaning": "hospital",
+    "sentence": "병원에 가야 해요.",
+    "translation": "I have to go to the hospital.",
+    "grammar": [
+      {
+        "segment": "병원에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "약국",
+    "romanization": "yakguk",
+    "meaning": "pharmacy",
+    "sentence": "약국에서 약을 샀어요.",
+    "translation": "I bought medicine at the pharmacy.",
+    "grammar": [
+      {
+        "segment": "약국에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "약을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "은행",
+    "romanization": "eunhaeng",
+    "meaning": "bank",
+    "sentence": "은행에서 돈을 뽑아요.",
+    "translation": "I withdraw money at the bank.",
+    "grammar": [
+      {
+        "segment": "은행에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "돈을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "우체국",
+    "romanization": "ucheguk",
+    "meaning": "post office",
+    "sentence": "우체국에서 편지를 보내요.",
+    "translation": "I send a letter at the post office.",
+    "grammar": [
+      {
+        "segment": "우체국에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "편지를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "도서관",
+    "romanization": "doseogwan",
+    "meaning": "library",
+    "sentence": "도서관에서 공부해요.",
+    "translation": "I study at the library.",
+    "grammar": [
+      {
+        "segment": "도서관에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "공원",
+    "romanization": "gongwon",
+    "meaning": "park",
+    "sentence": "공원에서 산책해요.",
+    "translation": "I take a walk at the park.",
+    "grammar": [
+      {
+        "segment": "공원에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "가게",
+    "romanization": "gage",
+    "meaning": "store, shop",
+    "sentence": "가게가 문을 닫았어요.",
+    "translation": "The store has closed.",
+    "grammar": [
+      {
+        "segment": "가게가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "문을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "식당",
+    "romanization": "sikdang",
+    "meaning": "restaurant",
+    "sentence": "식당에서 밥을 먹어요.",
+    "translation": "I eat at the restaurant.",
+    "grammar": [
+      {
+        "segment": "식당에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "카페",
+    "romanization": "kape",
+    "meaning": "cafe",
+    "sentence": "카페에서 친구를 만나요.",
+    "translation": "I meet a friend at the cafe.",
+    "grammar": [
+      {
+        "segment": "카페에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "친구를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "회사",
+    "romanization": "hoesa",
+    "meaning": "company, office",
+    "sentence": "회사에서 야근해요.",
+    "translation": "I work overtime at the company.",
+    "grammar": [
+      {
+        "segment": "회사에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "공항",
+    "romanization": "gonghang",
+    "meaning": "airport",
+    "sentence": "공항에서 친구를 기다려요.",
+    "translation": "I wait for a friend at the airport.",
+    "grammar": [
+      {
+        "segment": "공항에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "친구를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "역",
+    "romanization": "yeok",
+    "meaning": "station (train/subway)",
+    "sentence": "역에서 만나요.",
+    "translation": "Let's meet at the station.",
+    "grammar": [
+      {
+        "segment": "역에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "대학교",
+    "romanization": "daehakgyo",
+    "meaning": "university",
+    "sentence": "대학교에서 경제학을 공부해요.",
+    "translation": "I study economics at university.",
+    "grammar": [
+      {
+        "segment": "대학교에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "경제학을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "호텔",
+    "romanization": "hotel",
+    "meaning": "hotel",
+    "sentence": "호텔에서 3박을 했어요.",
+    "translation": "I stayed for 3 nights at the hotel.",
+    "grammar": [
+      {
+        "segment": "호텔에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "계단",
+    "romanization": "gyedan",
+    "meaning": "stairs, steps",
+    "sentence": "계단을 올라가요.",
+    "translation": "I go up the stairs.",
+    "grammar": [
+      {
+        "segment": "계단을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "엘리베이터",
+    "romanization": "ellibeiteo",
+    "meaning": "elevator",
+    "sentence": "엘리베이터를 타요.",
+    "translation": "I take the elevator.",
+    "grammar": [
+      {
+        "segment": "엘리베이터를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "주차장",
+    "romanization": "juchaejang",
+    "meaning": "parking lot",
+    "sentence": "주차장에 자동차를 세워요.",
+    "translation": "I park my car in the parking lot.",
+    "grammar": [
+      {
+        "segment": "주차장에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "자동차를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "신호등",
+    "romanization": "sinhodeueng",
+    "meaning": "traffic light",
+    "sentence": "신호등이 빨간색이에요.",
+    "translation": "The traffic light is red.",
+    "grammar": [
+      {
+        "segment": "신호등이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "횡단보도",
+    "romanization": "hoengdanbodo",
+    "meaning": "crosswalk",
+    "sentence": "횡단보도에서 길을 건너요.",
+    "translation": "I cross the road at the crosswalk.",
+    "grammar": [
+      {
+        "segment": "횡단보도에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "길을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "지도",
+    "romanization": "jido",
+    "meaning": "map",
+    "sentence": "지도를 보면서 길을 찾아요.",
+    "translation": "I look at the map to find the way.",
+    "grammar": [
+      {
+        "segment": "지도를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "길을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "버스",
+    "romanization": "beoseu",
+    "meaning": "bus",
+    "sentence": "버스를 타고 가요.",
+    "translation": "I go by bus.",
+    "grammar": [
+      {
+        "segment": "버스를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "지하철",
+    "romanization": "jihacheol",
+    "meaning": "subway, metro",
+    "sentence": "지하철로 출근해요.",
+    "translation": "I commute by subway.",
+    "grammar": [
+      {
+        "segment": "지하철로",
+        "marker": "means 로",
+        "color": "orange"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "기차",
+    "romanization": "gicha",
+    "meaning": "train",
+    "sentence": "기차를 타고 부산에 갔어요.",
+    "translation": "I took the train to Busan.",
+    "grammar": [
+      {
+        "segment": "기차를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "부산에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "비행기",
+    "romanization": "bihaenggi",
+    "meaning": "airplane",
+    "sentence": "비행기가 하늘을 날아요.",
+    "translation": "The airplane flies in the sky.",
+    "grammar": [
+      {
+        "segment": "비행기가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "하늘을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "자전거",
+    "romanization": "jajeon-geo",
+    "meaning": "bicycle",
+    "sentence": "자전거를 타는 게 좋아요.",
+    "translation": "I like riding a bicycle.",
+    "grammar": [
+      {
+        "segment": "자전거를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "택시",
+    "romanization": "taeksi",
+    "meaning": "taxi",
+    "sentence": "택시를 잡아요.",
+    "translation": "I hail a taxi.",
+    "grammar": [
+      {
+        "segment": "택시를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "자동차",
+    "romanization": "jadongcha",
+    "meaning": "car, automobile",
+    "sentence": "자동차로 여행해요.",
+    "translation": "I travel by car.",
+    "grammar": [
+      {
+        "segment": "자동차로",
+        "marker": "means 로",
+        "color": "orange"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "길",
+    "romanization": "gil",
+    "meaning": "road, path, street",
+    "sentence": "길이 막혀요.",
+    "translation": "The road is blocked.",
+    "grammar": [
+      {
+        "segment": "길이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "오토바이",
+    "romanization": "otobai",
+    "meaning": "motorcycle",
+    "sentence": "오토바이로 배달해요.",
+    "translation": "I deliver by motorcycle.",
+    "grammar": [
+      {
+        "segment": "오토바이로",
+        "marker": "means 로",
+        "color": "orange"
+      }
+    ],
+    "level": 2
+  },
+  {
+    "word": "오늘",
+    "romanization": "oneul",
+    "meaning": "today",
+    "sentence": "오늘은 날씨가 좋아요.",
+    "translation": "The weather is nice today.",
+    "grammar": [
+      {
+        "segment": "오늘은",
+        "marker": "topic 은",
+        "color": "red"
+      },
+      {
+        "segment": "날씨가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "내일",
+    "romanization": "naeil",
+    "meaning": "tomorrow",
+    "sentence": "내일 시험이 있어요.",
+    "translation": "There is an exam tomorrow.",
+    "grammar": [
+      {
+        "segment": "내일",
+        "marker": "time expression",
+        "color": "orange"
+      },
+      {
+        "segment": "시험이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "어제",
+    "romanization": "eoje",
+    "meaning": "yesterday",
+    "sentence": "어제 뭐 했어요?",
+    "translation": "What did you do yesterday?",
+    "grammar": [
+      {
+        "segment": "어제",
+        "marker": "time expression",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "지금",
+    "romanization": "jigeum",
+    "meaning": "now",
+    "sentence": "지금 어디에 있어요?",
+    "translation": "Where are you right now?",
+    "grammar": [
+      {
+        "segment": "지금",
+        "marker": "time adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "어디에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "아침",
+    "romanization": "achim",
+    "meaning": "morning",
+    "sentence": "아침마다 조깅해요.",
+    "translation": "I jog every morning.",
+    "grammar": [
+      {
+        "segment": "아침마다",
+        "marker": "time 마다 (every)",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "점심",
+    "romanization": "jeomsim",
+    "meaning": "lunch, noon",
+    "sentence": "점심에 뭐 먹을까요?",
+    "translation": "What shall we eat for lunch?",
+    "grammar": [
+      {
+        "segment": "점심에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "저녁",
+    "romanization": "jeonyeok",
+    "meaning": "evening, dinner",
+    "sentence": "저녁을 같이 먹어요.",
+    "translation": "Let's eat dinner together.",
+    "grammar": [
+      {
+        "segment": "저녁을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "밤",
+    "romanization": "bam",
+    "meaning": "night; chestnut",
+    "sentence": "밤에 혼자 걸어요.",
+    "translation": "I walk alone at night.",
+    "grammar": [
+      {
+        "segment": "밤에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "주말",
+    "romanization": "jumal",
+    "meaning": "weekend",
+    "sentence": "주말에 뭐 해요?",
+    "translation": "What do you do on weekends?",
+    "grammar": [
+      {
+        "segment": "주말에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "평일",
+    "romanization": "pyeongil",
+    "meaning": "weekday",
+    "sentence": "평일에는 바빠요.",
+    "translation": "I'm busy on weekdays.",
+    "grammar": [
+      {
+        "segment": "평일에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "월요일",
+    "romanization": "woryo-il",
+    "meaning": "Monday",
+    "sentence": "월요일마다 회의가 있어요.",
+    "translation": "There is a meeting every Monday.",
+    "grammar": [
+      {
+        "segment": "월요일마다",
+        "marker": "time 마다 (every)",
+        "color": "orange"
+      },
+      {
+        "segment": "회의가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "화요일",
+    "romanization": "hwayo-il",
+    "meaning": "Tuesday",
+    "sentence": "화요일에 수업이 있어요.",
+    "translation": "I have class on Tuesday.",
+    "grammar": [
+      {
+        "segment": "화요일에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "수업이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "수요일",
+    "romanization": "suyo-il",
+    "meaning": "Wednesday",
+    "sentence": "수요일은 제 생일이에요.",
+    "translation": "Wednesday is my birthday.",
+    "grammar": [
+      {
+        "segment": "수요일은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "목요일",
+    "romanization": "mogyo-il",
+    "meaning": "Thursday",
+    "sentence": "목요일에 친구를 만나요.",
+    "translation": "I meet a friend on Thursday.",
+    "grammar": [
+      {
+        "segment": "목요일에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "친구를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "금요일",
+    "romanization": "geumyo-il",
+    "meaning": "Friday",
+    "sentence": "금요일 저녁이 제일 좋아요.",
+    "translation": "Friday evenings are my favourite.",
+    "grammar": [
+      {
+        "segment": "금요일 저녁이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "토요일",
+    "romanization": "toyo-il",
+    "meaning": "Saturday",
+    "sentence": "토요일에 등산을 가요.",
+    "translation": "I go hiking on Saturday.",
+    "grammar": [
+      {
+        "segment": "토요일에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "일요일",
+    "romanization": "ilyo-il",
+    "meaning": "Sunday",
+    "sentence": "일요일에는 쉬어요.",
+    "translation": "I rest on Sunday.",
+    "grammar": [
+      {
+        "segment": "일요일에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "봄",
+    "romanization": "bom",
+    "meaning": "spring",
+    "sentence": "봄에 꽃이 많이 펴요.",
+    "translation": "Many flowers bloom in spring.",
+    "grammar": [
+      {
+        "segment": "봄에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "꽃이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "여름",
+    "romanization": "yeoreum",
+    "meaning": "summer",
+    "sentence": "여름에는 수영하러 가요.",
+    "translation": "In summer I go swimming.",
+    "grammar": [
+      {
+        "segment": "여름에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "가을",
+    "romanization": "gaeul",
+    "meaning": "autumn, fall",
+    "sentence": "가을에 단풍이 예뻐요.",
+    "translation": "The autumn foliage is beautiful.",
+    "grammar": [
+      {
+        "segment": "가을에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "단풍이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "겨울",
+    "romanization": "gyeoul",
+    "meaning": "winter",
+    "sentence": "겨울에 눈이 많이 와요.",
+    "translation": "It snows a lot in winter.",
+    "grammar": [
+      {
+        "segment": "겨울에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "눈이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "일월",
+    "romanization": "irwol",
+    "meaning": "January",
+    "sentence": "일월에 새해가 시작돼요.",
+    "translation": "The new year begins in January.",
+    "grammar": [
+      {
+        "segment": "일월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "새해가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "이월",
+    "romanization": "iwol",
+    "meaning": "February",
+    "sentence": "이월에 발렌타인데이가 있어요.",
+    "translation": "Valentine's Day is in February.",
+    "grammar": [
+      {
+        "segment": "이월에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "삼월",
+    "romanization": "samwol",
+    "meaning": "March",
+    "sentence": "삼월에 학기가 시작돼요.",
+    "translation": "The semester starts in March.",
+    "grammar": [
+      {
+        "segment": "삼월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "학기가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "사월",
+    "romanization": "sawol",
+    "meaning": "April",
+    "sentence": "사월에 벚꽃이 펴요.",
+    "translation": "Cherry blossoms bloom in April.",
+    "grammar": [
+      {
+        "segment": "사월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "벚꽃이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "오월",
+    "romanization": "owol",
+    "meaning": "May",
+    "sentence": "오월에 어린이날이 있어요.",
+    "translation": "Children's Day is in May.",
+    "grammar": [
+      {
+        "segment": "오월에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "유월",
+    "romanization": "yuwol",
+    "meaning": "June",
+    "sentence": "유월에 장마가 시작돼요.",
+    "translation": "The rainy season starts in June.",
+    "grammar": [
+      {
+        "segment": "유월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "장마가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "칠월",
+    "romanization": "chirwol",
+    "meaning": "July",
+    "sentence": "칠월은 제일 더워요.",
+    "translation": "July is the hottest month.",
+    "grammar": [
+      {
+        "segment": "칠월은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "팔월",
+    "romanization": "palwol",
+    "meaning": "August",
+    "sentence": "팔월에 휴가를 갔어요.",
+    "translation": "I went on vacation in August.",
+    "grammar": [
+      {
+        "segment": "팔월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "휴가를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "구월",
+    "romanization": "guwol",
+    "meaning": "September",
+    "sentence": "구월에 학교가 다시 시작해요.",
+    "translation": "School starts again in September.",
+    "grammar": [
+      {
+        "segment": "구월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "학교가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "시월",
+    "romanization": "siwol",
+    "meaning": "October",
+    "sentence": "시월에 단풍 구경을 가요.",
+    "translation": "I go to see autumn leaves in October.",
+    "grammar": [
+      {
+        "segment": "시월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "단풍 구경을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "십일월",
+    "romanization": "sibirwol",
+    "meaning": "November",
+    "sentence": "십일월에 날씨가 추워져요.",
+    "translation": "The weather gets cold in November.",
+    "grammar": [
+      {
+        "segment": "십일월에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "날씨가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "십이월",
+    "romanization": "sibiwol",
+    "meaning": "December",
+    "sentence": "십이월에 크리스마스가 있어요.",
+    "translation": "Christmas is in December.",
+    "grammar": [
+      {
+        "segment": "십이월에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "일",
+    "romanization": "il",
+    "meaning": "one (Sino-Korean)",
+    "sentence": "일 층에 카페가 있어요.",
+    "translation": "There is a cafe on the first floor.",
+    "grammar": [
+      {
+        "segment": "일 층에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "카페가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "이",
+    "romanization": "i",
+    "meaning": "two (Sino-Korean)",
+    "sentence": "이 층에 사무실이 있어요.",
+    "translation": "The office is on the second floor.",
+    "grammar": [
+      {
+        "segment": "이 층에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "사무실이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "삼",
+    "romanization": "sam",
+    "meaning": "three (Sino-Korean)",
+    "sentence": "삼 명이 왔어요.",
+    "translation": "Three people came.",
+    "grammar": [
+      {
+        "segment": "삼 명이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "사",
+    "romanization": "sa",
+    "meaning": "four (Sino-Korean)",
+    "sentence": "사 시에 만나요.",
+    "translation": "Let's meet at four o'clock.",
+    "grammar": [
+      {
+        "segment": "사 시에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "오",
+    "romanization": "o",
+    "meaning": "five (Sino-Korean)",
+    "sentence": "오 분만 기다려요.",
+    "translation": "Wait just five minutes.",
+    "grammar": [
+      {
+        "segment": "오 분만",
+        "marker": "limiting particle 만",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "육",
+    "romanization": "yuk",
+    "meaning": "six (Sino-Korean)",
+    "sentence": "육 개월 동안 공부했어요.",
+    "translation": "I studied for six months.",
+    "grammar": [
+      {
+        "segment": "육 개월 동안",
+        "marker": "duration 동안 (for/during)",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "칠",
+    "romanization": "chil",
+    "meaning": "seven (Sino-Korean)",
+    "sentence": "칠 시에 일어나요.",
+    "translation": "I wake up at seven o'clock.",
+    "grammar": [
+      {
+        "segment": "칠 시에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "팔",
+    "romanization": "pal",
+    "meaning": "eight (Sino-Korean)",
+    "sentence": "팔 월에 생일이에요.",
+    "translation": "My birthday is in August.",
+    "grammar": [
+      {
+        "segment": "팔 월에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "구",
+    "romanization": "gu",
+    "meaning": "nine (Sino-Korean)",
+    "sentence": "구 층에 올라가요.",
+    "translation": "I go up to the ninth floor.",
+    "grammar": [
+      {
+        "segment": "구 층에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "십",
+    "romanization": "sip",
+    "meaning": "ten (Sino-Korean)",
+    "sentence": "십 분 후에 도착해요.",
+    "translation": "I'll arrive in ten minutes.",
+    "grammar": [
+      {
+        "segment": "십 분 후에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "백",
+    "romanization": "baek",
+    "meaning": "one hundred",
+    "sentence": "사과가 백 개 있어요.",
+    "translation": "There are one hundred apples.",
+    "grammar": [
+      {
+        "segment": "사과가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "천",
+    "romanization": "cheon",
+    "meaning": "one thousand",
+    "sentence": "천 원짜리 커피를 마셔요.",
+    "translation": "I drink a 1,000 won coffee.",
+    "grammar": [
+      {
+        "segment": "천 원짜리 커피를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "만",
+    "romanization": "man",
+    "meaning": "ten thousand",
+    "sentence": "만 원으로 밥을 먹어요.",
+    "translation": "I eat a meal for 10,000 won.",
+    "grammar": [
+      {
+        "segment": "만 원으로",
+        "marker": "means 으로",
+        "color": "orange"
+      },
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "날씨",
+    "romanization": "nalsi",
+    "meaning": "weather",
+    "sentence": "날씨가 흐려요.",
+    "translation": "The weather is cloudy.",
+    "grammar": [
+      {
+        "segment": "날씨가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "비",
+    "romanization": "bi",
+    "meaning": "rain",
+    "sentence": "비가 많이 와요.",
+    "translation": "It rains a lot.",
+    "grammar": [
+      {
+        "segment": "비가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "눈",
+    "romanization": "nun",
+    "meaning": "snow; eye",
+    "sentence": "눈이 펑펑 내려요.",
+    "translation": "Snow is falling heavily.",
+    "grammar": [
+      {
+        "segment": "눈이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "바람",
+    "romanization": "baram",
+    "meaning": "wind",
+    "sentence": "바람이 세게 불어요.",
+    "translation": "The wind blows strongly.",
+    "grammar": [
+      {
+        "segment": "바람이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "구름",
+    "romanization": "gureum",
+    "meaning": "cloud",
+    "sentence": "구름이 많이 껴요.",
+    "translation": "There are many clouds.",
+    "grammar": [
+      {
+        "segment": "구름이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "태양",
+    "romanization": "taeyang",
+    "meaning": "sun",
+    "sentence": "태양이 밝게 빛나요.",
+    "translation": "The sun shines brightly.",
+    "grammar": [
+      {
+        "segment": "태양이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "달",
+    "romanization": "dal",
+    "meaning": "moon; month",
+    "sentence": "달이 예뻐요.",
+    "translation": "The moon is beautiful.",
+    "grammar": [
+      {
+        "segment": "달이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "별",
+    "romanization": "byeol",
+    "meaning": "star",
+    "sentence": "별이 반짝여요.",
+    "translation": "The stars are twinkling.",
+    "grammar": [
+      {
+        "segment": "별이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "하늘",
+    "romanization": "haneul",
+    "meaning": "sky",
+    "sentence": "하늘이 파래요.",
+    "translation": "The sky is blue.",
+    "grammar": [
+      {
+        "segment": "하늘이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "바다",
+    "romanization": "bada",
+    "meaning": "sea, ocean",
+    "sentence": "바다에 가고 싶어요.",
+    "translation": "I want to go to the sea.",
+    "grammar": [
+      {
+        "segment": "바다에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "산",
+    "romanization": "san",
+    "meaning": "mountain",
+    "sentence": "산에 오르는 게 힘들어요.",
+    "translation": "Climbing the mountain is hard.",
+    "grammar": [
+      {
+        "segment": "산에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "강",
+    "romanization": "gang",
+    "meaning": "river",
+    "sentence": "강물이 맑아요.",
+    "translation": "The river water is clear.",
+    "grammar": [
+      {
+        "segment": "강물이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "꽃",
+    "romanization": "kkot",
+    "meaning": "flower",
+    "sentence": "꽃이 활짝 피었어요.",
+    "translation": "The flowers have bloomed fully.",
+    "grammar": [
+      {
+        "segment": "꽃이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "나무",
+    "romanization": "namu",
+    "meaning": "tree, wood",
+    "sentence": "나무 아래서 쉬어요.",
+    "translation": "I rest under a tree.",
+    "grammar": [
+      {
+        "segment": "나무 아래서",
+        "marker": "location(action) 아래서 (under)",
+        "color": "purple"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "땅",
+    "romanization": "ttang",
+    "meaning": "ground, land",
+    "sentence": "땅이 젖어 있어요.",
+    "translation": "The ground is wet.",
+    "grammar": [
+      {
+        "segment": "땅이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "호수",
+    "romanization": "hosu",
+    "meaning": "lake",
+    "sentence": "호수 주변을 걸었어요.",
+    "translation": "I walked around the lake.",
+    "grammar": [
+      {
+        "segment": "호수 주변을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "숲",
+    "romanization": "sup",
+    "meaning": "forest, woods",
+    "sentence": "숲에서 새 소리를 들어요.",
+    "translation": "I hear bird sounds in the forest.",
+    "grammar": [
+      {
+        "segment": "숲에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "새 소리를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "머리",
+    "romanization": "meori",
+    "meaning": "head; hair",
+    "sentence": "머리가 아파요.",
+    "translation": "My head hurts.",
+    "grammar": [
+      {
+        "segment": "머리가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "귀",
+    "romanization": "gwi",
+    "meaning": "ear",
+    "sentence": "귀가 잘 안 들려요.",
+    "translation": "I can't hear well.",
+    "grammar": [
+      {
+        "segment": "귀가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "코",
+    "romanization": "ko",
+    "meaning": "nose",
+    "sentence": "코가 막혔어요.",
+    "translation": "My nose is stuffy.",
+    "grammar": [
+      {
+        "segment": "코가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "입",
+    "romanization": "ip",
+    "meaning": "mouth",
+    "sentence": "입을 크게 벌려요.",
+    "translation": "Open your mouth wide.",
+    "grammar": [
+      {
+        "segment": "입을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "목",
+    "romanization": "mok",
+    "meaning": "neck; throat",
+    "sentence": "목이 아파서 말하기 힘들어요.",
+    "translation": "My throat hurts so talking is hard.",
+    "grammar": [
+      {
+        "segment": "목이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "어깨",
+    "romanization": "eokkae",
+    "meaning": "shoulder",
+    "sentence": "어깨가 뭉쳐 있어요.",
+    "translation": "My shoulders are tense.",
+    "grammar": [
+      {
+        "segment": "어깨가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "손",
+    "romanization": "son",
+    "meaning": "hand",
+    "sentence": "손을 잘 씻어요.",
+    "translation": "I wash my hands well.",
+    "grammar": [
+      {
+        "segment": "손을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "발",
+    "romanization": "bal",
+    "meaning": "foot, feet",
+    "sentence": "발이 아파서 못 걷겠어요.",
+    "translation": "My feet hurt so I can't walk.",
+    "grammar": [
+      {
+        "segment": "발이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "다리",
+    "romanization": "dari",
+    "meaning": "leg; bridge",
+    "sentence": "다리가 저려요.",
+    "translation": "My legs are numb.",
+    "grammar": [
+      {
+        "segment": "다리가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "배",
+    "romanization": "bae",
+    "meaning": "stomach; boat; pear",
+    "sentence": "배가 고파요.",
+    "translation": "I'm hungry.",
+    "grammar": [
+      {
+        "segment": "배가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "심장",
+    "romanization": "simjang",
+    "meaning": "heart",
+    "sentence": "심장이 빨리 뛰어요.",
+    "translation": "My heart is beating fast.",
+    "grammar": [
+      {
+        "segment": "심장이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "피부",
+    "romanization": "pibu",
+    "meaning": "skin",
+    "sentence": "피부가 건조해요.",
+    "translation": "My skin is dry.",
+    "grammar": [
+      {
+        "segment": "피부가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "병",
+    "romanization": "byeong",
+    "meaning": "illness, disease",
+    "sentence": "병이 나았어요.",
+    "translation": "The illness has healed.",
+    "grammar": [
+      {
+        "segment": "병이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "열",
+    "romanization": "yeol",
+    "meaning": "fever",
+    "sentence": "열이 많이 나요.",
+    "translation": "I have a high fever.",
+    "grammar": [
+      {
+        "segment": "열이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "기침",
+    "romanization": "gichim",
+    "meaning": "cough",
+    "sentence": "기침이 심해요.",
+    "translation": "The cough is severe.",
+    "grammar": [
+      {
+        "segment": "기침이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "옷",
+    "romanization": "ot",
+    "meaning": "clothes, clothing",
+    "sentence": "옷을 갈아입어요.",
+    "translation": "I change clothes.",
+    "grammar": [
+      {
+        "segment": "옷을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "바지",
+    "romanization": "baji",
+    "meaning": "pants, trousers",
+    "sentence": "바지가 너무 꽉 껴요.",
+    "translation": "The pants are too tight.",
+    "grammar": [
+      {
+        "segment": "바지가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "치마",
+    "romanization": "chima",
+    "meaning": "skirt",
+    "sentence": "치마를 입고 나갔어요.",
+    "translation": "I went out wearing a skirt.",
+    "grammar": [
+      {
+        "segment": "치마를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "셔츠",
+    "romanization": "syeocheu",
+    "meaning": "shirt",
+    "sentence": "하얀 셔츠를 샀어요.",
+    "translation": "I bought a white shirt.",
+    "grammar": [
+      {
+        "segment": "셔츠를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "신발",
+    "romanization": "sinbal",
+    "meaning": "shoes",
+    "sentence": "신발을 벗고 들어오세요.",
+    "translation": "Please take off your shoes and come in.",
+    "grammar": [
+      {
+        "segment": "신발을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "양말",
+    "romanization": "yangmal",
+    "meaning": "socks",
+    "sentence": "양말이 짝짝이예요.",
+    "translation": "The socks don't match.",
+    "grammar": [
+      {
+        "segment": "양말이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "모자",
+    "romanization": "moja",
+    "meaning": "hat, cap",
+    "sentence": "모자를 쓰고 나가요.",
+    "translation": "I go out wearing a hat.",
+    "grammar": [
+      {
+        "segment": "모자를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "코트",
+    "romanization": "koteu",
+    "meaning": "coat",
+    "sentence": "코트를 입을 정도로 추워요.",
+    "translation": "It's cold enough to wear a coat.",
+    "grammar": [
+      {
+        "segment": "코트를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "장갑",
+    "romanization": "janggap",
+    "meaning": "gloves",
+    "sentence": "장갑을 끼지 않으면 손이 시려요.",
+    "translation": "If I don't wear gloves my hands are cold.",
+    "grammar": [
+      {
+        "segment": "장갑을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "손이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "항상",
+    "romanization": "hangsang",
+    "meaning": "always",
+    "sentence": "항상 감사해요.",
+    "translation": "I'm always grateful.",
+    "grammar": [
+      {
+        "segment": "항상",
+        "marker": "frequency adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "자주",
+    "romanization": "jaju",
+    "meaning": "often, frequently",
+    "sentence": "자주 운동해요?",
+    "translation": "Do you exercise often?",
+    "grammar": [
+      {
+        "segment": "자주",
+        "marker": "frequency adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "가끔",
+    "romanization": "gakkeum",
+    "meaning": "sometimes, occasionally",
+    "sentence": "가끔 영화를 봐요.",
+    "translation": "I watch movies sometimes.",
+    "grammar": [
+      {
+        "segment": "가끔",
+        "marker": "frequency adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "영화를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "매일",
+    "romanization": "maeil",
+    "meaning": "every day",
+    "sentence": "매일 일기를 써요.",
+    "translation": "I write in a journal every day.",
+    "grammar": [
+      {
+        "segment": "매일",
+        "marker": "frequency adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "일기를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "올해",
+    "romanization": "olhae",
+    "meaning": "this year",
+    "sentence": "올해 목표가 뭐예요?",
+    "translation": "What is your goal this year?",
+    "grammar": [
+      {
+        "segment": "올해",
+        "marker": "time expression",
+        "color": "orange"
+      },
+      {
+        "segment": "목표가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "작년",
+    "romanization": "jangnyeon",
+    "meaning": "last year",
+    "sentence": "작년보다 올해가 더 바빠요.",
+    "translation": "This year is busier than last year.",
+    "grammar": [
+      {
+        "segment": "작년보다",
+        "marker": "comparison 보다 (than)",
+        "color": "orange"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "내년",
+    "romanization": "naenyeon",
+    "meaning": "next year",
+    "sentence": "내년에 한국에 가고 싶어요.",
+    "translation": "I want to go to Korea next year.",
+    "grammar": [
+      {
+        "segment": "내년에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "한국에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 3
+  },
+  {
+    "word": "먹다",
+    "romanization": "meokda",
+    "meaning": "to eat",
+    "sentence": "저는 매일 아침을 먹어요.",
+    "translation": "I eat breakfast every day.",
+    "grammar": [
+      {
+        "segment": "저는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "아침을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "마시다",
+    "romanization": "masida",
+    "meaning": "to drink",
+    "sentence": "물을 충분히 마셔야 해요.",
+    "translation": "You should drink enough water.",
+    "grammar": [
+      {
+        "segment": "물을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "자다",
+    "romanization": "jada",
+    "meaning": "to sleep",
+    "sentence": "일찍 자야 건강해요.",
+    "translation": "Sleep early to be healthy.",
+    "grammar": [
+      {
+        "segment": "일찍",
+        "marker": "time adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "일어나다",
+    "romanization": "ireonada",
+    "meaning": "to wake up, get up",
+    "sentence": "오늘 일찍 일어났어요.",
+    "translation": "I woke up early today.",
+    "grammar": [
+      {
+        "segment": "오늘",
+        "marker": "time adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "걷다",
+    "romanization": "geotda",
+    "meaning": "to walk",
+    "sentence": "매일 한 시간씩 걸어요.",
+    "translation": "I walk one hour every day.",
+    "grammar": [
+      {
+        "segment": "매일",
+        "marker": "frequency adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "한 시간씩",
+        "marker": "distributive 씩 (each)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "달리다",
+    "romanization": "dallida",
+    "meaning": "to run",
+    "sentence": "공원에서 달리는 게 즐거워요.",
+    "translation": "Running in the park is enjoyable.",
+    "grammar": [
+      {
+        "segment": "공원에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "앉다",
+    "romanization": "anda",
+    "meaning": "to sit",
+    "sentence": "앞에 앉아서 잘 들어요.",
+    "translation": "Sit in front and listen well.",
+    "grammar": [
+      {
+        "segment": "앞에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "서다",
+    "romanization": "seoda",
+    "meaning": "to stand",
+    "sentence": "줄을 서서 기다려요.",
+    "translation": "I stand in line and wait.",
+    "grammar": [
+      {
+        "segment": "줄을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "말하다",
+    "romanization": "malhada",
+    "meaning": "to speak, say",
+    "sentence": "천천히 말해 주세요.",
+    "translation": "Please speak slowly.",
+    "grammar": [
+      {
+        "segment": "천천히",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "듣다",
+    "romanization": "deutda",
+    "meaning": "to listen, hear",
+    "sentence": "음악을 들으면서 공부해요.",
+    "translation": "I study while listening to music.",
+    "grammar": [
+      {
+        "segment": "음악을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "보다",
+    "romanization": "boda",
+    "meaning": "to see, look, watch",
+    "sentence": "영화를 같이 봐요.",
+    "translation": "Let's watch a movie together.",
+    "grammar": [
+      {
+        "segment": "영화를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "읽다",
+    "romanization": "ikda",
+    "meaning": "to read",
+    "sentence": "소설을 읽는 게 취미예요.",
+    "translation": "Reading novels is my hobby.",
+    "grammar": [
+      {
+        "segment": "소설을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "쓰다",
+    "romanization": "sseuda",
+    "meaning": "to write; use; wear (hat)",
+    "sentence": "편지를 손으로 써요.",
+    "translation": "I write a letter by hand.",
+    "grammar": [
+      {
+        "segment": "편지를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "손으로",
+        "marker": "means 으로",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "공부하다",
+    "romanization": "gongbuhada",
+    "meaning": "to study",
+    "sentence": "한국어를 열심히 공부해요.",
+    "translation": "I study Korean hard.",
+    "grammar": [
+      {
+        "segment": "한국어를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "일하다",
+    "romanization": "ilhada",
+    "meaning": "to work",
+    "sentence": "오늘 야근해서 늦게 일했어요.",
+    "translation": "I worked late because of overtime today.",
+    "grammar": [
+      {
+        "segment": "오늘",
+        "marker": "time adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "쉬다",
+    "romanization": "swida",
+    "meaning": "to rest",
+    "sentence": "주말에는 집에서 쉬어요.",
+    "translation": "I rest at home on weekends.",
+    "grammar": [
+      {
+        "segment": "주말에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      },
+      {
+        "segment": "집에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "놀다",
+    "romanization": "nolda",
+    "meaning": "to play, hang out",
+    "sentence": "아이들이 운동장에서 놀아요.",
+    "translation": "Children play on the playground.",
+    "grammar": [
+      {
+        "segment": "아이들이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "운동장에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "사다",
+    "romanization": "sada",
+    "meaning": "to buy",
+    "sentence": "마트에서 과일을 샀어요.",
+    "translation": "I bought fruit at the mart.",
+    "grammar": [
+      {
+        "segment": "마트에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "과일을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "팔다",
+    "romanization": "palda",
+    "meaning": "to sell",
+    "sentence": "중고 물건을 팔아요.",
+    "translation": "I sell secondhand items.",
+    "grammar": [
+      {
+        "segment": "중고 물건을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "주다",
+    "romanization": "juda",
+    "meaning": "to give",
+    "sentence": "친구에게 선물을 줬어요.",
+    "translation": "I gave a gift to a friend.",
+    "grammar": [
+      {
+        "segment": "친구에게",
+        "marker": "recipient 에게",
+        "color": "purple"
+      },
+      {
+        "segment": "선물을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "받다",
+    "romanization": "batda",
+    "meaning": "to receive",
+    "sentence": "편지를 받으면 기분이 좋아요.",
+    "translation": "I feel good when I receive a letter.",
+    "grammar": [
+      {
+        "segment": "편지를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "기분이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "찾다",
+    "romanization": "chatda",
+    "meaning": "to look for, find",
+    "sentence": "잃어버린 지갑을 찾았어요.",
+    "translation": "I found my lost wallet.",
+    "grammar": [
+      {
+        "segment": "지갑을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "열다",
+    "romanization": "yeolda",
+    "meaning": "to open",
+    "sentence": "문을 열어 주세요.",
+    "translation": "Please open the door.",
+    "grammar": [
+      {
+        "segment": "문을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "닫다",
+    "romanization": "datda",
+    "meaning": "to close",
+    "sentence": "창문을 닫아야 해요.",
+    "translation": "I need to close the window.",
+    "grammar": [
+      {
+        "segment": "창문을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "보내다",
+    "romanization": "bonaeda",
+    "meaning": "to send; spend (time)",
+    "sentence": "이메일을 보냈어요.",
+    "translation": "I sent an email.",
+    "grammar": [
+      {
+        "segment": "이메일을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "기다리다",
+    "romanization": "gidarida",
+    "meaning": "to wait",
+    "sentence": "한 시간이나 기다렸어요.",
+    "translation": "I waited for a whole hour.",
+    "grammar": [
+      {
+        "segment": "한 시간이나",
+        "marker": "emphasis 이나 (as much as)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "만들다",
+    "romanization": "mandeulda",
+    "meaning": "to make, create",
+    "sentence": "손수 밥을 만들었어요.",
+    "translation": "I made a meal by hand.",
+    "grammar": [
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "고치다",
+    "romanization": "gochida",
+    "meaning": "to fix, repair",
+    "sentence": "컴퓨터를 고쳐 주세요.",
+    "translation": "Please fix the computer.",
+    "grammar": [
+      {
+        "segment": "컴퓨터를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "바꾸다",
+    "romanization": "bakkuda",
+    "meaning": "to change, switch",
+    "sentence": "비밀번호를 바꿔야 해요.",
+    "translation": "I need to change the password.",
+    "grammar": [
+      {
+        "segment": "비밀번호를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "가르치다",
+    "romanization": "gareuchida",
+    "meaning": "to teach",
+    "sentence": "아이에게 한글을 가르쳐요.",
+    "translation": "I teach Korean writing to a child.",
+    "grammar": [
+      {
+        "segment": "아이에게",
+        "marker": "recipient 에게",
+        "color": "purple"
+      },
+      {
+        "segment": "한글을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "배우다",
+    "romanization": "baeuda",
+    "meaning": "to learn",
+    "sentence": "기타를 배우고 있어요.",
+    "translation": "I am learning guitar.",
+    "grammar": [
+      {
+        "segment": "기타를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "가다",
+    "romanization": "gada",
+    "meaning": "to go",
+    "sentence": "학원에 가야 해요.",
+    "translation": "I need to go to the academy.",
+    "grammar": [
+      {
+        "segment": "학원에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "오다",
+    "romanization": "oda",
+    "meaning": "to come",
+    "sentence": "빨리 와요.",
+    "translation": "Come quickly.",
+    "grammar": [
+      {
+        "segment": "빨리",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "나가다",
+    "romanization": "nagada",
+    "meaning": "to go out, exit",
+    "sentence": "밖에 나가기 싫어요.",
+    "translation": "I don't want to go outside.",
+    "grammar": [
+      {
+        "segment": "밖에",
+        "marker": "location 에",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "들어오다",
+    "romanization": "deureooda",
+    "meaning": "to come in, enter",
+    "sentence": "안으로 들어오세요.",
+    "translation": "Please come inside.",
+    "grammar": [
+      {
+        "segment": "안으로",
+        "marker": "direction 으로",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "올라가다",
+    "romanization": "ollagada",
+    "meaning": "to go up, climb",
+    "sentence": "계단을 올라가요.",
+    "translation": "I go up the stairs.",
+    "grammar": [
+      {
+        "segment": "계단을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "살다",
+    "romanization": "salda",
+    "meaning": "to live, reside",
+    "sentence": "서울에서 살아요.",
+    "translation": "I live in Seoul.",
+    "grammar": [
+      {
+        "segment": "서울에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "알다",
+    "romanization": "alda",
+    "meaning": "to know",
+    "sentence": "그 사람을 알아요?",
+    "translation": "Do you know that person?",
+    "grammar": [
+      {
+        "segment": "그 사람을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "모르다",
+    "romanization": "moreuda",
+    "meaning": "to not know",
+    "sentence": "답을 모르겠어요.",
+    "translation": "I don't know the answer.",
+    "grammar": [
+      {
+        "segment": "답을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "믿다",
+    "romanization": "mitda",
+    "meaning": "to believe, trust",
+    "sentence": "저를 믿어 주세요.",
+    "translation": "Please trust me.",
+    "grammar": [
+      {
+        "segment": "저를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "느끼다",
+    "romanization": "neukkida",
+    "meaning": "to feel, sense",
+    "sentence": "행복을 느껴요.",
+    "translation": "I feel happiness.",
+    "grammar": [
+      {
+        "segment": "행복을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "기억하다",
+    "romanization": "gieokhada",
+    "meaning": "to remember",
+    "sentence": "그 날을 잘 기억해요.",
+    "translation": "I remember that day well.",
+    "grammar": [
+      {
+        "segment": "그 날을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "잊다",
+    "romanization": "itda",
+    "meaning": "to forget",
+    "sentence": "약속을 잊어버렸어요.",
+    "translation": "I forgot the appointment.",
+    "grammar": [
+      {
+        "segment": "약속을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "생각하다",
+    "romanization": "saenggakada",
+    "meaning": "to think",
+    "sentence": "이 문제에 대해 생각해요.",
+    "translation": "I think about this problem.",
+    "grammar": [
+      {
+        "segment": "이 문제에 대해",
+        "marker": "about/regarding 에 대해",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "청소하다",
+    "romanization": "cheongsohada",
+    "meaning": "to clean",
+    "sentence": "주말에 방을 청소해요.",
+    "translation": "I clean my room on weekends.",
+    "grammar": [
+      {
+        "segment": "주말에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "방을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "요리하다",
+    "romanization": "yorihada",
+    "meaning": "to cook",
+    "sentence": "저는 요리하는 걸 좋아해요.",
+    "translation": "I like cooking.",
+    "grammar": [
+      {
+        "segment": "저는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "운전하다",
+    "romanization": "unjonhada",
+    "meaning": "to drive",
+    "sentence": "회사까지 운전해서 가요.",
+    "translation": "I drive to the office.",
+    "grammar": [
+      {
+        "segment": "회사까지",
+        "marker": "direction 까지 (up to)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "전화하다",
+    "romanization": "jeonhwahada",
+    "meaning": "to call (phone)",
+    "sentence": "엄마에게 전화했어요.",
+    "translation": "I called my mom.",
+    "grammar": [
+      {
+        "segment": "엄마에게",
+        "marker": "recipient 에게",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "검색하다",
+    "romanization": "geomsaekada",
+    "meaning": "to search (online)",
+    "sentence": "인터넷에서 정보를 검색해요.",
+    "translation": "I search for information online.",
+    "grammar": [
+      {
+        "segment": "인터넷에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "정보를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "예약하다",
+    "romanization": "yeyakada",
+    "meaning": "to make a reservation",
+    "sentence": "식당을 미리 예약했어요.",
+    "translation": "I made a restaurant reservation in advance.",
+    "grammar": [
+      {
+        "segment": "식당을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "미리",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "준비하다",
+    "romanization": "junbihada",
+    "meaning": "to prepare",
+    "sentence": "시험을 위해 열심히 준비해요.",
+    "translation": "I prepare hard for the exam.",
+    "grammar": [
+      {
+        "segment": "시험을 위해",
+        "marker": "purpose 을 위해 (for)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "확인하다",
+    "romanization": "hwakinada",
+    "meaning": "to confirm, check",
+    "sentence": "이메일을 확인해 주세요.",
+    "translation": "Please check the email.",
+    "grammar": [
+      {
+        "segment": "이메일을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "설명하다",
+    "romanization": "seolmyonghada",
+    "meaning": "to explain",
+    "sentence": "천천히 설명해 주세요.",
+    "translation": "Please explain slowly.",
+    "grammar": [
+      {
+        "segment": "천천히",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "좋다",
+    "romanization": "jota",
+    "meaning": "to be good",
+    "sentence": "이 음식이 정말 좋아요.",
+    "translation": "This food is really good.",
+    "grammar": [
+      {
+        "segment": "음식이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "나쁘다",
+    "romanization": "nappeuda",
+    "meaning": "to be bad",
+    "sentence": "날씨가 나쁜 날에는 집에 있어요.",
+    "translation": "On bad weather days I stay home.",
+    "grammar": [
+      {
+        "segment": "날씨가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "크다",
+    "romanization": "keuda",
+    "meaning": "to be big, large",
+    "sentence": "저 건물이 정말 커요.",
+    "translation": "That building is really big.",
+    "grammar": [
+      {
+        "segment": "건물이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "작다",
+    "romanization": "jakda",
+    "meaning": "to be small",
+    "sentence": "방이 너무 작아서 답답해요.",
+    "translation": "The room is too small so it feels cramped.",
+    "grammar": [
+      {
+        "segment": "방이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "많다",
+    "romanization": "manta",
+    "meaning": "to be many, much",
+    "sentence": "사람이 너무 많아요.",
+    "translation": "There are too many people.",
+    "grammar": [
+      {
+        "segment": "사람이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "적다",
+    "romanization": "jeokda",
+    "meaning": "to be few, little",
+    "sentence": "시간이 너무 적어요.",
+    "translation": "There is too little time.",
+    "grammar": [
+      {
+        "segment": "시간이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "빠르다",
+    "romanization": "ppareuda",
+    "meaning": "to be fast",
+    "sentence": "기차가 정말 빨라요.",
+    "translation": "The train is really fast.",
+    "grammar": [
+      {
+        "segment": "기차가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "느리다",
+    "romanization": "neurida",
+    "meaning": "to be slow",
+    "sentence": "인터넷이 느려서 불편해요.",
+    "translation": "The internet is slow so it's inconvenient.",
+    "grammar": [
+      {
+        "segment": "인터넷이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "길다",
+    "romanization": "gilda",
+    "meaning": "to be long",
+    "sentence": "머리가 많이 길었어요.",
+    "translation": "My hair has grown long.",
+    "grammar": [
+      {
+        "segment": "머리가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "짧다",
+    "romanization": "jjalda",
+    "meaning": "to be short",
+    "sentence": "치마가 너무 짧아요.",
+    "translation": "The skirt is too short.",
+    "grammar": [
+      {
+        "segment": "치마가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "높다",
+    "romanization": "nopda",
+    "meaning": "to be high, tall",
+    "sentence": "산이 높아서 오르기 힘들어요.",
+    "translation": "The mountain is high so it's hard to climb.",
+    "grammar": [
+      {
+        "segment": "산이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "낮다",
+    "romanization": "natda",
+    "meaning": "to be low",
+    "sentence": "천장이 낮아서 불편해요.",
+    "translation": "The ceiling is low so it's uncomfortable.",
+    "grammar": [
+      {
+        "segment": "천장이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "무겁다",
+    "romanization": "mugeopda",
+    "meaning": "to be heavy",
+    "sentence": "짐이 너무 무거워요.",
+    "translation": "The luggage is too heavy.",
+    "grammar": [
+      {
+        "segment": "짐이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "가볍다",
+    "romanization": "gabyeopda",
+    "meaning": "to be light (weight)",
+    "sentence": "이 가방이 의외로 가벼워요.",
+    "translation": "This bag is surprisingly light.",
+    "grammar": [
+      {
+        "segment": "가방이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "덥다",
+    "romanization": "deotda",
+    "meaning": "to be hot (weather)",
+    "sentence": "여름에는 너무 더워요.",
+    "translation": "It's too hot in summer.",
+    "grammar": [
+      {
+        "segment": "여름에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "춥다",
+    "romanization": "chupda",
+    "meaning": "to be cold (weather)",
+    "sentence": "겨울 아침은 너무 추워요.",
+    "translation": "Winter mornings are too cold.",
+    "grammar": [
+      {
+        "segment": "겨울 아침은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "뜨겁다",
+    "romanization": "tteugeopda",
+    "meaning": "to be hot (to touch)",
+    "sentence": "국이 뜨거우니까 조심하세요.",
+    "translation": "The soup is hot so be careful.",
+    "grammar": [
+      {
+        "segment": "국이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "차갑다",
+    "romanization": "chagapda",
+    "meaning": "to be cold (to touch)",
+    "sentence": "아이스크림이 차가워요.",
+    "translation": "Ice cream is cold.",
+    "grammar": [
+      {
+        "segment": "아이스크림이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "맛있다",
+    "romanization": "masitda",
+    "meaning": "to be delicious",
+    "sentence": "이 음식은 정말 맛있어요.",
+    "translation": "This food is really delicious.",
+    "grammar": [
+      {
+        "segment": "음식은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "맛없다",
+    "romanization": "maseoptda",
+    "meaning": "to taste bad",
+    "sentence": "이 커피는 맛이 없어요.",
+    "translation": "This coffee doesn't taste good.",
+    "grammar": [
+      {
+        "segment": "커피는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "맛이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "예쁘다",
+    "romanization": "yeppeuda",
+    "meaning": "to be pretty, beautiful",
+    "sentence": "꽃이 정말 예뻐요.",
+    "translation": "The flowers are really pretty.",
+    "grammar": [
+      {
+        "segment": "꽃이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "잘생기다",
+    "romanization": "jalsaengida",
+    "meaning": "to be handsome, good-looking",
+    "sentence": "저 배우는 정말 잘생겼어요.",
+    "translation": "That actor is really handsome.",
+    "grammar": [
+      {
+        "segment": "배우는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "재미있다",
+    "romanization": "jaemiitda",
+    "meaning": "to be fun, interesting",
+    "sentence": "한국어 공부가 재미있어요.",
+    "translation": "Studying Korean is fun.",
+    "grammar": [
+      {
+        "segment": "한국어 공부가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "재미없다",
+    "romanization": "jaemieoptda",
+    "meaning": "to be boring",
+    "sentence": "이 드라마는 재미없어요.",
+    "translation": "This drama is boring.",
+    "grammar": [
+      {
+        "segment": "드라마는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "쉽다",
+    "romanization": "swipda",
+    "meaning": "to be easy",
+    "sentence": "이 문제가 생각보다 쉬워요.",
+    "translation": "This problem is easier than I thought.",
+    "grammar": [
+      {
+        "segment": "문제가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "어렵다",
+    "romanization": "eoryeopda",
+    "meaning": "to be difficult",
+    "sentence": "한자를 외우기가 어려워요.",
+    "translation": "Memorising Chinese characters is difficult.",
+    "grammar": [
+      {
+        "segment": "한자를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "바쁘다",
+    "romanization": "bappeuda",
+    "meaning": "to be busy",
+    "sentence": "요즘 너무 바빠서 쉴 시간이 없어요.",
+    "translation": "These days I'm so busy I have no time to rest.",
+    "grammar": [
+      {
+        "segment": "쉴 시간이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "한가하다",
+    "romanization": "hangahada",
+    "meaning": "to be free, not busy",
+    "sentence": "주말에는 한가해요.",
+    "translation": "I'm free on weekends.",
+    "grammar": [
+      {
+        "segment": "주말에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "피곤하다",
+    "romanization": "pigonhada",
+    "meaning": "to be tired",
+    "sentence": "야근하고 나서 너무 피곤해요.",
+    "translation": "I'm so tired after working overtime.",
+    "grammar": [
+      {
+        "segment": "야근하고 나서",
+        "marker": "sequence 고 나서 (after doing)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "졸리다",
+    "romanization": "jollida",
+    "meaning": "to be sleepy",
+    "sentence": "밥 먹고 나면 졸려요.",
+    "translation": "I get sleepy after eating.",
+    "grammar": [
+      {
+        "segment": "밥 먹고 나면",
+        "marker": "conditional 고 나면 (after)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "기분",
+    "romanization": "gibun",
+    "meaning": "feeling, mood",
+    "sentence": "오늘 기분이 정말 좋아요.",
+    "translation": "I'm in a really good mood today.",
+    "grammar": [
+      {
+        "segment": "기분이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "행복하다",
+    "romanization": "haengbokhada",
+    "meaning": "to be happy",
+    "sentence": "지금 이 순간이 행복해요.",
+    "translation": "I'm happy at this very moment.",
+    "grammar": [
+      {
+        "segment": "이 순간이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "슬프다",
+    "romanization": "seulpeuda",
+    "meaning": "to be sad",
+    "sentence": "영화가 너무 슬퍼서 울었어요.",
+    "translation": "The movie was so sad that I cried.",
+    "grammar": [
+      {
+        "segment": "영화가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "화나다",
+    "romanization": "hwanada",
+    "meaning": "to be angry",
+    "sentence": "왜 화가 났어요?",
+    "translation": "Why are you angry?",
+    "grammar": [
+      {
+        "segment": "화가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "무섭다",
+    "romanization": "museopda",
+    "meaning": "to be scary, afraid",
+    "sentence": "혼자 있으면 무서워요.",
+    "translation": "It's scary to be alone.",
+    "grammar": [
+      {
+        "segment": "혼자 있으면",
+        "marker": "conditional 으면 (if)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "걱정하다",
+    "romanization": "geokjeonghada",
+    "meaning": "to worry",
+    "sentence": "너무 걱정하지 마세요.",
+    "translation": "Please don't worry too much.",
+    "grammar": [
+      {
+        "segment": "너무",
+        "marker": "degree adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "설레다",
+    "romanization": "seolleda",
+    "meaning": "to have butterflies, be excited",
+    "sentence": "내일 여행이라서 설레요.",
+    "translation": "I'm excited because of tomorrow's trip.",
+    "grammar": [
+      {
+        "segment": "내일 여행이라서",
+        "marker": "reason 이라서",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "그립다",
+    "romanization": "geuripda",
+    "meaning": "to miss (someone/something)",
+    "sentence": "고향이 그리워요.",
+    "translation": "I miss my hometown.",
+    "grammar": [
+      {
+        "segment": "고향이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "외롭다",
+    "romanization": "oeropda",
+    "meaning": "to be lonely",
+    "sentence": "혼자 밥을 먹으니 외로워요.",
+    "translation": "Eating alone makes me feel lonely.",
+    "grammar": [
+      {
+        "segment": "혼자",
+        "marker": "manner adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "긴장하다",
+    "romanization": "ginjangada",
+    "meaning": "to be nervous",
+    "sentence": "발표 전에 너무 긴장해요.",
+    "translation": "I get very nervous before a presentation.",
+    "grammar": [
+      {
+        "segment": "발표 전에",
+        "marker": "time marker 전에 (before)",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "편하다",
+    "romanization": "pyeonhada",
+    "meaning": "to be comfortable, at ease",
+    "sentence": "이 신발은 신기 편해요.",
+    "translation": "These shoes are comfortable to wear.",
+    "grammar": [
+      {
+        "segment": "신발은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "불편하다",
+    "romanization": "bulpyeonhada",
+    "meaning": "to be uncomfortable",
+    "sentence": "좌석이 좁아서 불편해요.",
+    "translation": "The seat is narrow so it's uncomfortable.",
+    "grammar": [
+      {
+        "segment": "좌석이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "놀라다",
+    "romanization": "nollada",
+    "meaning": "to be surprised",
+    "sentence": "갑자기 나타나서 놀랐어요.",
+    "translation": "I was surprised by the sudden appearance.",
+    "grammar": [
+      {
+        "segment": "갑자기",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "지루하다",
+    "romanization": "jiruhada",
+    "meaning": "to be bored, boring",
+    "sentence": "이 수업은 너무 지루해요.",
+    "translation": "This class is so boring.",
+    "grammar": [
+      {
+        "segment": "수업은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "속상하다",
+    "romanization": "soksanghada",
+    "meaning": "to be upset, distressed",
+    "sentence": "약속을 지키지 못해서 속상해요.",
+    "translation": "I'm upset because I couldn't keep my promise.",
+    "grammar": [
+      {
+        "segment": "약속을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "부끄럽다",
+    "romanization": "bukkeureupda",
+    "meaning": "to be embarrassed, shy",
+    "sentence": "앞에서 발표하면 부끄러워요.",
+    "translation": "I get embarrassed when presenting in front of people.",
+    "grammar": [
+      {
+        "segment": "앞에서",
+        "marker": "location 에서",
+        "color": "purple"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "신나다",
+    "romanization": "sinnada",
+    "meaning": "to be excited, thrilled",
+    "sentence": "소풍 날에는 신나요.",
+    "translation": "I'm excited on field trip days.",
+    "grammar": [
+      {
+        "segment": "소풍 날에는",
+        "marker": "time 에 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "실망하다",
+    "romanization": "silmanghada",
+    "meaning": "to be disappointed",
+    "sentence": "결과를 보고 실망했어요.",
+    "translation": "I was disappointed after seeing the result.",
+    "grammar": [
+      {
+        "segment": "결과를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 4
+  },
+  {
+    "word": "그래서",
+    "romanization": "geuraeseo",
+    "meaning": "so, therefore",
+    "sentence": "비가 와서 집에 있었어요.",
+    "translation": "It rained so I stayed home.",
+    "grammar": [
+      {
+        "segment": "비가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "그리고",
+    "romanization": "geurigo",
+    "meaning": "and, also",
+    "sentence": "밥을 먹고 커피를 마셨어요.",
+    "translation": "I ate and then drank coffee.",
+    "grammar": [
+      {
+        "segment": "밥을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "커피를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "하지만",
+    "romanization": "hajiman",
+    "meaning": "but, however",
+    "sentence": "맛있지만 너무 매워요.",
+    "translation": "It's delicious but too spicy.",
+    "grammar": [
+      {
+        "segment": "맛있지만",
+        "marker": "contrast 지만 (but)",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "그런데",
+    "romanization": "geureonde",
+    "meaning": "but, by the way",
+    "sentence": "갔는데 문이 닫혀 있었어요.",
+    "translation": "I went but the door was closed.",
+    "grammar": [
+      {
+        "segment": "갔는데",
+        "marker": "contrast/background 는데",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "만약",
+    "romanization": "manyak",
+    "meaning": "if, in case",
+    "sentence": "만약 비가 오면 우산을 가져가요.",
+    "translation": "If it rains, bring an umbrella.",
+    "grammar": [
+      {
+        "segment": "비가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "우산을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "결국",
+    "romanization": "gyeolguk",
+    "meaning": "in the end, eventually",
+    "sentence": "결국 포기하지 않았어요.",
+    "translation": "In the end, I didn't give up.",
+    "grammar": [
+      {
+        "segment": "결국",
+        "marker": "discourse adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "물론",
+    "romanization": "mullon",
+    "meaning": "of course, certainly",
+    "sentence": "물론 도와드릴 수 있어요.",
+    "translation": "Of course I can help you.",
+    "grammar": [
+      {
+        "segment": "물론",
+        "marker": "discourse adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "아마",
+    "romanization": "ama",
+    "meaning": "probably, maybe",
+    "sentence": "아마 내일은 비가 올 것 같아요.",
+    "translation": "It probably will rain tomorrow.",
+    "grammar": [
+      {
+        "segment": "아마",
+        "marker": "probability adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "사실",
+    "romanization": "sasil",
+    "meaning": "in fact, actually",
+    "sentence": "사실 저도 잘 몰라요.",
+    "translation": "In fact, I don't know well either.",
+    "grammar": [
+      {
+        "segment": "사실",
+        "marker": "discourse adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "숙제",
+    "romanization": "sukje",
+    "meaning": "homework",
+    "sentence": "숙제를 아직 못 했어요.",
+    "translation": "I haven't done the homework yet.",
+    "grammar": [
+      {
+        "segment": "숙제를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "시험",
+    "romanization": "siheom",
+    "meaning": "exam, test",
+    "sentence": "시험에 합격했어요.",
+    "translation": "I passed the exam.",
+    "grammar": [
+      {
+        "segment": "시험에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "성적",
+    "romanization": "seongjeok",
+    "meaning": "grade, academic score",
+    "sentence": "성적이 올랐어요.",
+    "translation": "My grades went up.",
+    "grammar": [
+      {
+        "segment": "성적이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "수업",
+    "romanization": "sueop",
+    "meaning": "class, lesson",
+    "sentence": "수업이 몇 시에 시작해요?",
+    "translation": "What time does the class start?",
+    "grammar": [
+      {
+        "segment": "수업이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "몇 시에",
+        "marker": "time 에",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "과제",
+    "romanization": "gwaje",
+    "meaning": "assignment, task",
+    "sentence": "과제를 내일까지 제출해야 해요.",
+    "translation": "I have to submit the assignment by tomorrow.",
+    "grammar": [
+      {
+        "segment": "과제를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "내일까지",
+        "marker": "time 까지 (by)",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "월급",
+    "romanization": "wolgeup",
+    "meaning": "monthly salary",
+    "sentence": "월급이 올랐으면 좋겠어요.",
+    "translation": "I wish my salary would go up.",
+    "grammar": [
+      {
+        "segment": "월급이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "직업",
+    "romanization": "jigeop",
+    "meaning": "occupation, job",
+    "sentence": "직업이 뭐예요?",
+    "translation": "What is your occupation?",
+    "grammar": [
+      {
+        "segment": "직업이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "회의",
+    "romanization": "hoeui",
+    "meaning": "meeting",
+    "sentence": "회의가 두 시간이나 걸렸어요.",
+    "translation": "The meeting took two whole hours.",
+    "grammar": [
+      {
+        "segment": "회의가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "발표",
+    "romanization": "balpyo",
+    "meaning": "presentation, announcement",
+    "sentence": "발표를 잘 마쳤어요.",
+    "translation": "I completed the presentation successfully.",
+    "grammar": [
+      {
+        "segment": "발표를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "계획",
+    "romanization": "gyehoek",
+    "meaning": "plan",
+    "sentence": "여름 방학 계획을 세웠어요.",
+    "translation": "I made a plan for summer vacation.",
+    "grammar": [
+      {
+        "segment": "여름 방학 계획을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "목표",
+    "romanization": "mokpyo",
+    "meaning": "goal, target",
+    "sentence": "올해 목표를 세워요.",
+    "translation": "I set my goals for this year.",
+    "grammar": [
+      {
+        "segment": "목표를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "결과",
+    "romanization": "gyeolgwa",
+    "meaning": "result, outcome",
+    "sentence": "결과가 기대 이상이었어요.",
+    "translation": "The result was beyond expectations.",
+    "grammar": [
+      {
+        "segment": "결과가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "방법",
+    "romanization": "bangbeop",
+    "meaning": "method, way",
+    "sentence": "더 좋은 방법이 있을까요?",
+    "translation": "Is there a better way?",
+    "grammar": [
+      {
+        "segment": "방법이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "문제",
+    "romanization": "munje",
+    "meaning": "problem; question",
+    "sentence": "이 문제를 어떻게 해결할까요?",
+    "translation": "How shall we solve this problem?",
+    "grammar": [
+      {
+        "segment": "문제를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "돈",
+    "romanization": "don",
+    "meaning": "money",
+    "sentence": "돈이 많으면 행복할까요?",
+    "translation": "Would you be happy if you had a lot of money?",
+    "grammar": [
+      {
+        "segment": "돈이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "가격",
+    "romanization": "gagyeok",
+    "meaning": "price",
+    "sentence": "가격이 생각보다 비싸요.",
+    "translation": "The price is higher than I thought.",
+    "grammar": [
+      {
+        "segment": "가격이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "할인",
+    "romanization": "harin",
+    "meaning": "discount",
+    "sentence": "할인이 되나요?",
+    "translation": "Is there a discount?",
+    "grammar": [
+      {
+        "segment": "할인이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "카드",
+    "romanization": "kadeu",
+    "meaning": "card (credit/debit)",
+    "sentence": "카드로 계산할게요.",
+    "translation": "I'll pay by card.",
+    "grammar": [
+      {
+        "segment": "카드로",
+        "marker": "means 로",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "현금",
+    "romanization": "hyeongeum",
+    "meaning": "cash",
+    "sentence": "현금이 없어서 카드를 써요.",
+    "translation": "I don't have cash so I use a card.",
+    "grammar": [
+      {
+        "segment": "현금이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "카드를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "영수증",
+    "romanization": "yeongsujeung",
+    "meaning": "receipt",
+    "sentence": "영수증을 받을 수 있어요?",
+    "translation": "Can I get a receipt?",
+    "grammar": [
+      {
+        "segment": "영수증을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "저축",
+    "romanization": "jeochuk",
+    "meaning": "savings",
+    "sentence": "매달 저축을 해요.",
+    "translation": "I save money every month.",
+    "grammar": [
+      {
+        "segment": "매달",
+        "marker": "frequency adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "저축을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "영화",
+    "romanization": "yeonghwa",
+    "meaning": "movie, film",
+    "sentence": "주말에 영화를 보러 가요.",
+    "translation": "I go to watch a movie on weekends.",
+    "grammar": [
+      {
+        "segment": "주말에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "영화를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "드라마",
+    "romanization": "deurama",
+    "meaning": "TV drama, series",
+    "sentence": "요즘 한국 드라마에 빠졌어요.",
+    "translation": "These days I've fallen into Korean dramas.",
+    "grammar": [
+      {
+        "segment": "드라마에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "음악",
+    "romanization": "eumak",
+    "meaning": "music",
+    "sentence": "음악을 들으면 스트레스가 풀려요.",
+    "translation": "When I listen to music my stress is relieved.",
+    "grammar": [
+      {
+        "segment": "음악을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "스트레스가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "노래",
+    "romanization": "norae",
+    "meaning": "song; singing",
+    "sentence": "노래를 부르는 걸 좋아해요.",
+    "translation": "I like singing songs.",
+    "grammar": [
+      {
+        "segment": "노래를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "그림",
+    "romanization": "geurim",
+    "meaning": "picture, drawing, painting",
+    "sentence": "그림을 그리는 게 취미예요.",
+    "translation": "Drawing pictures is my hobby.",
+    "grammar": [
+      {
+        "segment": "그림을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "요리",
+    "romanization": "yori",
+    "meaning": "cooking; cuisine",
+    "sentence": "직접 요리하는 게 재미있어요.",
+    "translation": "Cooking myself is fun.",
+    "grammar": [
+      {
+        "segment": "직접",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "운동",
+    "romanization": "undong",
+    "meaning": "exercise, sports",
+    "sentence": "하루에 30분씩 운동해요.",
+    "translation": "I exercise 30 minutes a day.",
+    "grammar": [
+      {
+        "segment": "하루에",
+        "marker": "time 에",
+        "color": "orange"
+      },
+      {
+        "segment": "30분씩",
+        "marker": "distributive 씩",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "여행",
+    "romanization": "yeohaeng",
+    "meaning": "trip, travel",
+    "sentence": "해외여행을 꿈꿔요.",
+    "translation": "I dream of traveling abroad.",
+    "grammar": [
+      {
+        "segment": "해외여행을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "게임",
+    "romanization": "geim",
+    "meaning": "game (video)",
+    "sentence": "게임을 하면서 스트레스를 풀어요.",
+    "translation": "I relieve stress by playing games.",
+    "grammar": [
+      {
+        "segment": "게임을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "취미",
+    "romanization": "chwimi",
+    "meaning": "hobby",
+    "sentence": "취미가 뭐예요?",
+    "translation": "What is your hobby?",
+    "grammar": [
+      {
+        "segment": "취미가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "단어",
+    "romanization": "daneo",
+    "meaning": "word, vocabulary item",
+    "sentence": "매일 새로운 단어를 외워요.",
+    "translation": "I memorise new words every day.",
+    "grammar": [
+      {
+        "segment": "매일",
+        "marker": "frequency adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "단어를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "문법",
+    "romanization": "munbeop",
+    "meaning": "grammar",
+    "sentence": "문법이 헷갈려요.",
+    "translation": "The grammar confuses me.",
+    "grammar": [
+      {
+        "segment": "문법이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "발음",
+    "romanization": "bareum",
+    "meaning": "pronunciation",
+    "sentence": "발음을 연습해야 해요.",
+    "translation": "I need to practise pronunciation.",
+    "grammar": [
+      {
+        "segment": "발음을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "번역",
+    "romanization": "beonyeok",
+    "meaning": "translation",
+    "sentence": "이 문장의 번역이 맞아요?",
+    "translation": "Is this sentence's translation correct?",
+    "grammar": [
+      {
+        "segment": "문장의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "번역이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "연습",
+    "romanization": "yeonseup",
+    "meaning": "practice",
+    "sentence": "매일 연습하면 실력이 늘어요.",
+    "translation": "If you practise every day your skills improve.",
+    "grammar": [
+      {
+        "segment": "매일",
+        "marker": "frequency adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "실력이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "반복",
+    "romanization": "banbak",
+    "meaning": "repetition",
+    "sentence": "반복이 학습의 핵심이에요.",
+    "translation": "Repetition is the key to learning.",
+    "grammar": [
+      {
+        "segment": "반복이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "학습의",
+        "marker": "possessive 의",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "노력",
+    "romanization": "noryeok",
+    "meaning": "effort, endeavour",
+    "sentence": "꾸준한 노력이 성공을 만들어요.",
+    "translation": "Steady effort creates success.",
+    "grammar": [
+      {
+        "segment": "노력이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "성공을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "포기하다",
+    "romanization": "pogihada",
+    "meaning": "to give up",
+    "sentence": "절대로 포기하지 마세요.",
+    "translation": "Never give up.",
+    "grammar": [
+      {
+        "segment": "절대로",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "도전하다",
+    "romanization": "dojeona hada",
+    "meaning": "to challenge, try",
+    "sentence": "새로운 것에 도전하는 게 중요해요.",
+    "translation": "It's important to challenge yourself with new things.",
+    "grammar": [
+      {
+        "segment": "새로운 것에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "성장하다",
+    "romanization": "seongjanghada",
+    "meaning": "to grow, develop",
+    "sentence": "경험을 통해 성장해요.",
+    "translation": "I grow through experience.",
+    "grammar": [
+      {
+        "segment": "경험을 통해",
+        "marker": "means 를 통해",
+        "color": "orange"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "관심",
+    "romanization": "gwanshim",
+    "meaning": "interest, concern",
+    "sentence": "한국 문화에 관심이 많아요.",
+    "translation": "I have a lot of interest in Korean culture.",
+    "grammar": [
+      {
+        "segment": "한국 문화에",
+        "marker": "target 에",
+        "color": "purple"
+      },
+      {
+        "segment": "관심이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "집중하다",
+    "romanization": "jipjunghada",
+    "meaning": "to concentrate, focus",
+    "sentence": "수업에 집중해야 해요.",
+    "translation": "I need to focus on the class.",
+    "grammar": [
+      {
+        "segment": "수업에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "실력",
+    "romanization": "sillyeok",
+    "meaning": "ability, skill level",
+    "sentence": "한국어 실력이 많이 늘었어요.",
+    "translation": "My Korean skills have improved a lot.",
+    "grammar": [
+      {
+        "segment": "실력이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 5
+  },
+  {
+    "word": "사랑",
+    "romanization": "sarang",
+    "meaning": "love",
+    "sentence": "사랑은 말보다 행동으로 보여줘야 해요.",
+    "translation": "Love must be shown through actions rather than words.",
+    "grammar": [
+      {
+        "segment": "사랑은",
+        "marker": "topic 은",
+        "color": "red"
+      },
+      {
+        "segment": "말보다",
+        "marker": "comparison 보다 (than)",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "우정",
+    "romanization": "ujeong",
+    "meaning": "friendship",
+    "sentence": "진짜 우정은 힘들 때 나와요.",
+    "translation": "True friendship shows when things are tough.",
+    "grammar": [
+      {
+        "segment": "우정은",
+        "marker": "topic 은",
+        "color": "red"
+      },
+      {
+        "segment": "힘들 때",
+        "marker": "time 때 (when)",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "신뢰",
+    "romanization": "sinnoe",
+    "meaning": "trust, confidence",
+    "sentence": "신뢰를 쌓는 데 시간이 걸려요.",
+    "translation": "It takes time to build trust.",
+    "grammar": [
+      {
+        "segment": "신뢰를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "시간이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "약속",
+    "romanization": "yaksok",
+    "meaning": "promise; appointment",
+    "sentence": "약속을 꼭 지켜요.",
+    "translation": "I always keep my promises.",
+    "grammar": [
+      {
+        "segment": "약속을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "연락",
+    "romanization": "yeollak",
+    "meaning": "contact, communication",
+    "sentence": "자주 연락해요.",
+    "translation": "Let's stay in touch often.",
+    "grammar": [
+      {
+        "segment": "자주",
+        "marker": "frequency adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "결혼",
+    "romanization": "gyeolhon",
+    "meaning": "marriage, wedding",
+    "sentence": "결혼 준비가 많이 남았어요.",
+    "translation": "There's still a lot of wedding preparation left.",
+    "grammar": [
+      {
+        "segment": "결혼 준비가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "이별",
+    "romanization": "ibyeol",
+    "meaning": "farewell, parting",
+    "sentence": "이별은 항상 슬퍼요.",
+    "translation": "Farewells are always sad.",
+    "grammar": [
+      {
+        "segment": "이별은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "인연",
+    "romanization": "inyeon",
+    "meaning": "fate, connection, bond",
+    "sentence": "이런 만남이 인연인 것 같아요.",
+    "translation": "I think this kind of meeting is fate.",
+    "grammar": [
+      {
+        "segment": "만남이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "도와주다",
+    "romanization": "dowajuda",
+    "meaning": "to help, assist",
+    "sentence": "도와줘서 고마워요.",
+    "translation": "Thank you for helping me.",
+    "grammar": [
+      {
+        "segment": "도와줘서",
+        "marker": "reason 아서/어서",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "사과하다",
+    "romanization": "sagwahada",
+    "meaning": "to apologize",
+    "sentence": "먼저 사과하는 게 중요해요.",
+    "translation": "It's important to apologize first.",
+    "grammar": [
+      {
+        "segment": "먼저",
+        "marker": "sequence adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "용서하다",
+    "romanization": "yongseo hada",
+    "meaning": "to forgive",
+    "sentence": "용서하는 건 쉽지 않아요.",
+    "translation": "Forgiving is not easy.",
+    "grammar": [
+      {
+        "segment": "용서하는 건",
+        "marker": "nominalizer 는 것",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "감사하다",
+    "romanization": "gamsahada",
+    "meaning": "to be grateful",
+    "sentence": "모든 것에 감사하며 살아요.",
+    "translation": "I live being grateful for everything.",
+    "grammar": [
+      {
+        "segment": "모든 것에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "싸우다",
+    "romanization": "ssauda",
+    "meaning": "to fight, argue",
+    "sentence": "사소한 것으로 싸우지 마요.",
+    "translation": "Don't fight over trivial things.",
+    "grammar": [
+      {
+        "segment": "사소한 것으로",
+        "marker": "means/reason 으로",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "화해하다",
+    "romanization": "hwahae hada",
+    "meaning": "to make up, reconcile",
+    "sentence": "싸운 후에 화해했어요.",
+    "translation": "We made up after the fight.",
+    "grammar": [
+      {
+        "segment": "싸운 후에",
+        "marker": "time marker 후에 (after)",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "문화",
+    "romanization": "munhwa",
+    "meaning": "culture",
+    "sentence": "한국 문화에 관심이 있어요.",
+    "translation": "I am interested in Korean culture.",
+    "grammar": [
+      {
+        "segment": "한국 문화에",
+        "marker": "target 에",
+        "color": "purple"
+      },
+      {
+        "segment": "관심이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "전통",
+    "romanization": "jeontong",
+    "meaning": "tradition",
+    "sentence": "전통을 이어가는 게 중요해요.",
+    "translation": "It's important to carry on traditions.",
+    "grammar": [
+      {
+        "segment": "전통을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "역사",
+    "romanization": "yeoksa",
+    "meaning": "history",
+    "sentence": "역사를 통해 미래를 배워요.",
+    "translation": "We learn the future through history.",
+    "grammar": [
+      {
+        "segment": "역사를 통해",
+        "marker": "means 를 통해",
+        "color": "orange"
+      },
+      {
+        "segment": "미래를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "경제",
+    "romanization": "gyeongje",
+    "meaning": "economy",
+    "sentence": "경제가 어려워서 걱정이에요.",
+    "translation": "I'm worried because the economy is tough.",
+    "grammar": [
+      {
+        "segment": "경제가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "환경",
+    "romanization": "hwangyeong",
+    "meaning": "environment",
+    "sentence": "환경을 보호해야 할 책임이 있어요.",
+    "translation": "We have a responsibility to protect the environment.",
+    "grammar": [
+      {
+        "segment": "환경을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "책임이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "교육",
+    "romanization": "gyoyuk",
+    "meaning": "education",
+    "sentence": "교육이 미래를 결정한다고 해요.",
+    "translation": "They say education determines the future.",
+    "grammar": [
+      {
+        "segment": "교육이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "미래를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "언어",
+    "romanization": "eoneo",
+    "meaning": "language",
+    "sentence": "언어를 배우면 새로운 세계가 열려요.",
+    "translation": "When you learn a language a new world opens up.",
+    "grammar": [
+      {
+        "segment": "언어를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "세계가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "법",
+    "romanization": "beop",
+    "meaning": "law, rule",
+    "sentence": "법을 지키는 것이 시민의 의무예요.",
+    "translation": "Obeying the law is a citizen's duty.",
+    "grammar": [
+      {
+        "segment": "법을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "권리",
+    "romanization": "gwonri",
+    "meaning": "right, privilege",
+    "sentence": "모두에게 평등한 권리가 있어요.",
+    "translation": "Everyone has equal rights.",
+    "grammar": [
+      {
+        "segment": "권리가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "성공",
+    "romanization": "seonggong",
+    "meaning": "success",
+    "sentence": "성공의 비결은 포기하지 않는 것이에요.",
+    "translation": "The secret to success is not giving up.",
+    "grammar": [
+      {
+        "segment": "성공의",
+        "marker": "possessive 의",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "실패",
+    "romanization": "silpae",
+    "meaning": "failure",
+    "sentence": "실패는 성공의 어머니예요.",
+    "translation": "Failure is the mother of success.",
+    "grammar": [
+      {
+        "segment": "실패는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "성공의",
+        "marker": "possessive 의",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "경험",
+    "romanization": "gyeongheom",
+    "meaning": "experience",
+    "sentence": "다양한 경험이 사람을 성장시켜요.",
+    "translation": "Diverse experiences help people grow.",
+    "grammar": [
+      {
+        "segment": "경험이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "사람을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "기회",
+    "romanization": "gihoe",
+    "meaning": "opportunity, chance",
+    "sentence": "기회는 준비된 사람에게 와요.",
+    "translation": "Opportunity comes to those who are prepared.",
+    "grammar": [
+      {
+        "segment": "기회는",
+        "marker": "topic 는",
+        "color": "red"
+      },
+      {
+        "segment": "사람에게",
+        "marker": "recipient 에게",
+        "color": "purple"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "생각",
+    "romanization": "saenggak",
+    "meaning": "thought, idea",
+    "sentence": "생각을 정리하고 말해요.",
+    "translation": "I organise my thoughts and then speak.",
+    "grammar": [
+      {
+        "segment": "생각을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "의견",
+    "romanization": "uigyeon",
+    "meaning": "opinion, view",
+    "sentence": "솔직한 의견을 말해 주세요.",
+    "translation": "Please tell me your honest opinion.",
+    "grammar": [
+      {
+        "segment": "의견을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "이유",
+    "romanization": "iyu",
+    "meaning": "reason, cause",
+    "sentence": "이유 없이 화내지 마세요.",
+    "translation": "Don't get angry without a reason.",
+    "grammar": [
+      {
+        "segment": "이유 없이",
+        "marker": "manner 없이 (without)",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "의미",
+    "romanization": "uimi",
+    "meaning": "meaning, significance",
+    "sentence": "삶의 의미를 찾고 있어요.",
+    "translation": "I'm looking for the meaning of life.",
+    "grammar": [
+      {
+        "segment": "삶의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "의미를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "가치",
+    "romanization": "gachi",
+    "meaning": "value, worth",
+    "sentence": "경험의 가치는 돈으로 못 사요.",
+    "translation": "The value of experience cannot be bought with money.",
+    "grammar": [
+      {
+        "segment": "경험의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "가치는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "태도",
+    "romanization": "taedo",
+    "meaning": "attitude, stance",
+    "sentence": "긍정적인 태도가 결과를 바꿔요.",
+    "translation": "A positive attitude changes results.",
+    "grammar": [
+      {
+        "segment": "태도가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "결과를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "습관",
+    "romanization": "seupgwan",
+    "meaning": "habit",
+    "sentence": "좋은 습관을 만드는 데 21일이 걸려요.",
+    "translation": "It takes 21 days to form a good habit.",
+    "grammar": [
+      {
+        "segment": "습관을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "변화",
+    "romanization": "byeonhwa",
+    "meaning": "change, transformation",
+    "sentence": "변화를 두려워하지 마세요.",
+    "translation": "Don't be afraid of change.",
+    "grammar": [
+      {
+        "segment": "변화를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "꿈",
+    "romanization": "kkum",
+    "meaning": "dream",
+    "sentence": "꿈을 향해 포기하지 않아요.",
+    "translation": "I don't give up on my way to my dream.",
+    "grammar": [
+      {
+        "segment": "꿈을 향해",
+        "marker": "direction 을 향해 (toward)",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "희망",
+    "romanization": "huimang",
+    "meaning": "hope",
+    "sentence": "희망을 잃지 마세요.",
+    "translation": "Don't lose hope.",
+    "grammar": [
+      {
+        "segment": "희망을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "용기",
+    "romanization": "yonggi",
+    "meaning": "courage, bravery",
+    "sentence": "용기를 내어 도전했어요.",
+    "translation": "I summoned courage and took on the challenge.",
+    "grammar": [
+      {
+        "segment": "용기를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "인내",
+    "romanization": "inae",
+    "meaning": "patience, endurance",
+    "sentence": "인내가 최고의 덕목이에요.",
+    "translation": "Patience is the highest virtue.",
+    "grammar": [
+      {
+        "segment": "인내가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "갈등",
+    "romanization": "galdeung",
+    "meaning": "conflict, inner struggle",
+    "sentence": "두 가지 선택 사이에서 갈등이 있어요.",
+    "translation": "There is conflict between two choices.",
+    "grammar": [
+      {
+        "segment": "사이에서",
+        "marker": "location(action) 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "갈등이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "협력",
+    "romanization": "hyeomyeok",
+    "meaning": "cooperation, collaboration",
+    "sentence": "팀원들과 협력해서 일을 마쳤어요.",
+    "translation": "I finished the work by cooperating with my teammates.",
+    "grammar": [
+      {
+        "segment": "팀원들과",
+        "marker": "comitative 과 (with)",
+        "color": "orange"
+      },
+      {
+        "segment": "일을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "같이",
+    "romanization": "gachi",
+    "meaning": "together, like",
+    "sentence": "같이 밥 먹을까요?",
+    "translation": "Shall we eat together?",
+    "grammar": [
+      {
+        "segment": "같이",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "혼자",
+    "romanization": "honja",
+    "meaning": "alone, by oneself",
+    "sentence": "혼자 여행하는 게 자유로워요.",
+    "translation": "Travelling alone is liberating.",
+    "grammar": [
+      {
+        "segment": "혼자",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "서로",
+    "romanization": "seoro",
+    "meaning": "each other, mutually",
+    "sentence": "서로 도와가며 살아요.",
+    "translation": "We live by helping each other.",
+    "grammar": [
+      {
+        "segment": "서로",
+        "marker": "reciprocal adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 6
+  },
+  {
+    "word": "오히려",
+    "romanization": "ohiryeo",
+    "meaning": "rather, on the contrary",
+    "sentence": "칭찬이 오히려 부담스러워요.",
+    "translation": "Praise is rather burdensome.",
+    "grammar": [
+      {
+        "segment": "칭찬이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "오히려",
+        "marker": "contrast adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "차라리",
+    "romanization": "charari",
+    "meaning": "rather, better yet",
+    "sentence": "차라리 혼자 가는 게 나아요.",
+    "translation": "It's better to go alone, if anything.",
+    "grammar": [
+      {
+        "segment": "차라리",
+        "marker": "preference adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "비교하다",
+    "romanization": "bigyohada",
+    "meaning": "to compare",
+    "sentence": "자신을 남과 비교하지 마세요.",
+    "translation": "Don't compare yourself to others.",
+    "grammar": [
+      {
+        "segment": "자신을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "남과",
+        "marker": "comitative 과 (with/to)",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "반면",
+    "romanization": "banmyeon",
+    "meaning": "on the other hand, whereas",
+    "sentence": "그는 성실한 반면 능력이 부족해요.",
+    "translation": "He is diligent whereas he lacks ability.",
+    "grammar": [
+      {
+        "segment": "성실한 반면",
+        "marker": "contrast 반면 (whereas)",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "당연하다",
+    "romanization": "dangyeonhada",
+    "meaning": "to be natural, a matter of course",
+    "sentence": "감사한 마음을 갖는 건 당연해요.",
+    "translation": "It's natural to have a grateful heart.",
+    "grammar": [
+      {
+        "segment": "감사한 마음을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "굳이",
+    "romanization": "guji",
+    "meaning": "necessarily, insisting on doing",
+    "sentence": "굳이 지금 가야 해요?",
+    "translation": "Do you really have to go right now?",
+    "grammar": [
+      {
+        "segment": "굳이",
+        "marker": "insistence adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "지금",
+        "marker": "time adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "마침",
+    "romanization": "machim",
+    "meaning": "just in time, at that exact moment",
+    "sentence": "마침 버스가 왔어요.",
+    "translation": "Just then, the bus arrived.",
+    "grammar": [
+      {
+        "segment": "마침",
+        "marker": "timing adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "버스가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "어느새",
+    "romanization": "eonusae",
+    "meaning": "before one knows it",
+    "sentence": "어느새 봄이 왔어요.",
+    "translation": "Before I knew it, spring had come.",
+    "grammar": [
+      {
+        "segment": "어느새",
+        "marker": "time adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "봄이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "게다가",
+    "romanization": "gedaga",
+    "meaning": "moreover, on top of that",
+    "sentence": "늦었고 게다가 사과도 안 했어요.",
+    "translation": "You were late and on top of that didn't apologize.",
+    "grammar": [
+      {
+        "segment": "게다가",
+        "marker": "additive discourse marker",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "따라서",
+    "romanization": "ttaraseo",
+    "meaning": "therefore, accordingly",
+    "sentence": "따라서 다시 생각해 봐야 해요.",
+    "translation": "Therefore I need to think about it again.",
+    "grammar": [
+      {
+        "segment": "따라서",
+        "marker": "discourse connector",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "그러나",
+    "romanization": "geureona",
+    "meaning": "however, but (formal/written)",
+    "sentence": "노력했다. 그러나 결과가 좋지 않았다.",
+    "translation": "I tried hard. However, the result was not good.",
+    "grammar": [
+      {
+        "segment": "결과가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "또한",
+    "romanization": "ttohan",
+    "meaning": "also, moreover",
+    "sentence": "요리를 좋아하고 또한 먹는 것도 좋아해요.",
+    "translation": "I like cooking and also like eating.",
+    "grammar": [
+      {
+        "segment": "요리를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "왜냐하면",
+    "romanization": "waenyahamyeon",
+    "meaning": "because, the reason is",
+    "sentence": "왜냐하면 돈이 없거든요.",
+    "translation": "Because, you see, I have no money.",
+    "grammar": [
+      {
+        "segment": "돈이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "비록",
+    "romanization": "birok",
+    "meaning": "even though, although",
+    "sentence": "비록 어렵지만 포기하지 않을 거예요.",
+    "translation": "Even though it's hard I won't give up.",
+    "grammar": [
+      {
+        "segment": "비록 어렵지만",
+        "marker": "concession 비록...지만",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "설령",
+    "romanization": "seollyeong",
+    "meaning": "even if (hypothetical)",
+    "sentence": "설령 실패해도 다시 도전할 거예요.",
+    "translation": "Even if I fail I will try again.",
+    "grammar": [
+      {
+        "segment": "설령...해도",
+        "marker": "concessive 설령...해도",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "즉",
+    "romanization": "jeuk",
+    "meaning": "that is, namely",
+    "sentence": "즉, 포기는 없다는 뜻이에요.",
+    "translation": "That is, it means there is no giving up.",
+    "grammar": [
+      {
+        "segment": "즉",
+        "marker": "discourse marker (i.e.)",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "예를 들면",
+    "romanization": "yereul deulmyeon",
+    "meaning": "for example",
+    "sentence": "예를 들면, 김치나 된장이 있어요.",
+    "translation": "For example, there is kimchi and doenjang.",
+    "grammar": [
+      {
+        "segment": "예를 들면",
+        "marker": "discourse marker",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "반드시",
+    "romanization": "bandeusi",
+    "meaning": "surely, without fail",
+    "sentence": "반드시 성공할 거예요.",
+    "translation": "You will surely succeed.",
+    "grammar": [
+      {
+        "segment": "반드시",
+        "marker": "certainty adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "아무리",
+    "romanization": "amuri",
+    "meaning": "no matter how",
+    "sentence": "아무리 어려워도 포기하지 않아요.",
+    "translation": "No matter how hard it is I don't give up.",
+    "grammar": [
+      {
+        "segment": "아무리...어도",
+        "marker": "concessive 아무리...어도",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "더욱",
+    "romanization": "deouk",
+    "meaning": "even more, further",
+    "sentence": "연습할수록 더욱 잘하게 돼요.",
+    "translation": "The more you practise the better you get.",
+    "grammar": [
+      {
+        "segment": "연습할수록",
+        "marker": "proportional 을수록 (the more...)",
+        "color": "orange"
+      },
+      {
+        "segment": "더욱",
+        "marker": "degree adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "오래",
+    "romanization": "orae",
+    "meaning": "for a long time",
+    "sentence": "오래 기다려서 미안해요.",
+    "translation": "I'm sorry for making you wait so long.",
+    "grammar": [
+      {
+        "segment": "오래",
+        "marker": "duration adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "갑자기",
+    "romanization": "gapjagi",
+    "meaning": "suddenly, all of a sudden",
+    "sentence": "갑자기 비가 내리기 시작했어요.",
+    "translation": "It suddenly started to rain.",
+    "grammar": [
+      {
+        "segment": "갑자기",
+        "marker": "manner adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "비가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "천천히",
+    "romanization": "cheoncheonhi",
+    "meaning": "slowly",
+    "sentence": "천천히 말해야 알아들을 수 있어요.",
+    "translation": "I can understand if you speak slowly.",
+    "grammar": [
+      {
+        "segment": "천천히",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "빨리",
+    "romanization": "ppalli",
+    "meaning": "quickly, fast",
+    "sentence": "빨리 결정해야 해요.",
+    "translation": "I need to decide quickly.",
+    "grammar": [
+      {
+        "segment": "빨리",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "잘",
+    "romanization": "jal",
+    "meaning": "well, good",
+    "sentence": "한국어를 잘 해요.",
+    "translation": "I speak Korean well.",
+    "grammar": [
+      {
+        "segment": "한국어를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "잘",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 7
+  },
+  {
+    "word": "소통",
+    "romanization": "sotong",
+    "meaning": "communication",
+    "sentence": "원활한 소통이 팀워크의 핵심이에요.",
+    "translation": "Smooth communication is the core of teamwork.",
+    "grammar": [
+      {
+        "segment": "소통이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "팀워크의",
+        "marker": "possessive 의",
+        "color": "orange"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "공감",
+    "romanization": "gonggam",
+    "meaning": "empathy, sympathy",
+    "sentence": "공감 능력이 인간관계에 중요해요.",
+    "translation": "Empathy is important in human relationships.",
+    "grammar": [
+      {
+        "segment": "공감 능력이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "인간관계에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "배려",
+    "romanization": "baeryeo",
+    "meaning": "consideration, thoughtfulness",
+    "sentence": "상대방을 배려하는 마음이 필요해요.",
+    "translation": "A mindful heart that considers others is necessary.",
+    "grammar": [
+      {
+        "segment": "상대방을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "마음이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "겸손",
+    "romanization": "gyeomson",
+    "meaning": "humility, modesty",
+    "sentence": "겸손한 사람이 더 많은 것을 배워요.",
+    "translation": "A humble person learns more.",
+    "grammar": [
+      {
+        "segment": "겸손한 사람이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "것을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "자신감",
+    "romanization": "jasigam",
+    "meaning": "self-confidence",
+    "sentence": "자신감이 없으면 시작조차 못 해요.",
+    "translation": "Without self-confidence you can't even start.",
+    "grammar": [
+      {
+        "segment": "자신감이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "눈치",
+    "romanization": "nunchi",
+    "meaning": "reading the room, social awareness",
+    "sentence": "눈치가 빠른 사람이 사회생활을 잘해요.",
+    "translation": "People who read the room well succeed in social life.",
+    "grammar": [
+      {
+        "segment": "눈치가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "사람이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "정",
+    "romanization": "jeong",
+    "meaning": "deep emotional bond (uniquely Korean)",
+    "sentence": "정이 들면 떠나기 어려워요.",
+    "translation": "Once you form jeong it's hard to leave.",
+    "grammar": [
+      {
+        "segment": "정이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "분석",
+    "romanization": "bunsseok",
+    "meaning": "analysis",
+    "sentence": "데이터를 분석하여 결론을 냈어요.",
+    "translation": "I analysed the data and drew a conclusion.",
+    "grammar": [
+      {
+        "segment": "데이터를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "결론을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "연구",
+    "romanization": "yeongu",
+    "meaning": "research, study",
+    "sentence": "이 주제를 깊이 연구했어요.",
+    "translation": "I researched this topic in depth.",
+    "grammar": [
+      {
+        "segment": "주제를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "평가",
+    "romanization": "pyeonggwa",
+    "meaning": "evaluation, assessment",
+    "sentence": "공정한 평가가 필요해요.",
+    "translation": "A fair assessment is needed.",
+    "grammar": [
+      {
+        "segment": "공정한 평가가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "이론",
+    "romanization": "iron",
+    "meaning": "theory",
+    "sentence": "이론과 실제는 달라요.",
+    "translation": "Theory and practice are different.",
+    "grammar": [
+      {
+        "segment": "이론과",
+        "marker": "conjunction 과 (and)",
+        "color": "orange"
+      },
+      {
+        "segment": "실제는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "결론",
+    "romanization": "gyeollon",
+    "meaning": "conclusion",
+    "sentence": "결론적으로 더 연구가 필요해요.",
+    "translation": "In conclusion more research is needed.",
+    "grammar": [
+      {
+        "segment": "결론적으로",
+        "marker": "manner 으로",
+        "color": "orange"
+      },
+      {
+        "segment": "연구가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "가설",
+    "romanization": "gaseol",
+    "meaning": "hypothesis",
+    "sentence": "가설을 세우고 검증해요.",
+    "translation": "I form a hypothesis and verify it.",
+    "grammar": [
+      {
+        "segment": "가설을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "증거",
+    "romanization": "jeunggeo",
+    "meaning": "evidence, proof",
+    "sentence": "증거가 없으면 주장을 증명할 수 없어요.",
+    "translation": "Without evidence you can't prove a claim.",
+    "grammar": [
+      {
+        "segment": "증거가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "주장을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "인터넷",
+    "romanization": "inteonet",
+    "meaning": "internet",
+    "sentence": "인터넷으로 뭐든 알 수 있어요.",
+    "translation": "Through the internet you can know anything.",
+    "grammar": [
+      {
+        "segment": "인터넷으로",
+        "marker": "means 으로",
+        "color": "orange"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "인공지능",
+    "romanization": "ingong jineung",
+    "meaning": "artificial intelligence (AI)",
+    "sentence": "인공지능이 많은 분야를 변화시켜요.",
+    "translation": "AI is changing many fields.",
+    "grammar": [
+      {
+        "segment": "인공지능이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "분야를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "논리",
+    "romanization": "nolli",
+    "meaning": "logic",
+    "sentence": "논리적인 사고가 중요해요.",
+    "translation": "Logical thinking is important.",
+    "grammar": [
+      {
+        "segment": "논리적인 사고가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "근거",
+    "romanization": "geungeo",
+    "meaning": "basis, grounds, evidence",
+    "sentence": "근거 없이 주장하면 안 돼요.",
+    "translation": "You shouldn't make claims without grounds.",
+    "grammar": [
+      {
+        "segment": "근거 없이",
+        "marker": "manner 없이 (without)",
+        "color": "orange"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "요약",
+    "romanization": "yoyak",
+    "meaning": "summary",
+    "sentence": "내용을 요약해서 설명해 주세요.",
+    "translation": "Please explain with a summary of the content.",
+    "grammar": [
+      {
+        "segment": "내용을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "정리",
+    "romanization": "jeongni",
+    "meaning": "organisation, tidying up",
+    "sentence": "생각을 정리한 후에 말해요.",
+    "translation": "I speak after organising my thoughts.",
+    "grammar": [
+      {
+        "segment": "생각을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "발전",
+    "romanization": "baljeon",
+    "meaning": "development, progress",
+    "sentence": "기술이 빠르게 발전하고 있어요.",
+    "translation": "Technology is developing rapidly.",
+    "grammar": [
+      {
+        "segment": "기술이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "혁신",
+    "romanization": "hyeoksin",
+    "meaning": "innovation",
+    "sentence": "혁신이 없으면 발전도 없어요.",
+    "translation": "Without innovation there is no progress.",
+    "grammar": [
+      {
+        "segment": "혁신이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "한계",
+    "romanization": "hangye",
+    "meaning": "limit, boundary",
+    "sentence": "자신의 한계를 넘어서야 성장해요.",
+    "translation": "You must overcome your limits to grow.",
+    "grammar": [
+      {
+        "segment": "자신의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "한계를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "검토하다",
+    "romanization": "geomtohada",
+    "meaning": "to review, examine",
+    "sentence": "계약서를 꼼꼼히 검토했어요.",
+    "translation": "I reviewed the contract carefully.",
+    "grammar": [
+      {
+        "segment": "계약서를",
+        "marker": "object 를",
+        "color": "green"
+      },
+      {
+        "segment": "꼼꼼히",
+        "marker": "manner adverb",
+        "color": "orange"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "적용하다",
+    "romanization": "jeogyonghada",
+    "meaning": "to apply (a theory/rule)",
+    "sentence": "배운 걸 실제 상황에 적용해요.",
+    "translation": "I apply what I learned to real situations.",
+    "grammar": [
+      {
+        "segment": "배운 걸",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "실제 상황에",
+        "marker": "target 에",
+        "color": "purple"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "주장하다",
+    "romanization": "jujanghada",
+    "meaning": "to claim, argue a position",
+    "sentence": "자신의 의견을 논리적으로 주장해요.",
+    "translation": "I argue my opinion logically.",
+    "grammar": [
+      {
+        "segment": "자신의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "의견을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 8
+  },
+  {
+    "word": "세월",
+    "romanization": "sewol",
+    "meaning": "time (that has passed), the years",
+    "sentence": "세월이 흐르면 다 잊혀요.",
+    "translation": "As time passes everything is forgotten.",
+    "grammar": [
+      {
+        "segment": "세월이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "인생",
+    "romanization": "insaeng",
+    "meaning": "life (one's life journey)",
+    "sentence": "인생은 선택의 연속이에요.",
+    "translation": "Life is a series of choices.",
+    "grammar": [
+      {
+        "segment": "인생은",
+        "marker": "topic 은",
+        "color": "red"
+      },
+      {
+        "segment": "선택의",
+        "marker": "possessive 의",
+        "color": "orange"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "운명",
+    "romanization": "unmyeong",
+    "meaning": "fate, destiny",
+    "sentence": "운명은 스스로 만들어 가는 거예요.",
+    "translation": "Fate is something you create yourself.",
+    "grammar": [
+      {
+        "segment": "운명은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "존재",
+    "romanization": "jonjae",
+    "meaning": "existence, being",
+    "sentence": "나의 존재가 누군가에게 의미가 있어요.",
+    "translation": "My existence is meaningful to someone.",
+    "grammar": [
+      {
+        "segment": "나의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "존재가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "본질",
+    "romanization": "bonjil",
+    "meaning": "essence, nature",
+    "sentence": "문제의 본질을 파악해야 해결할 수 있어요.",
+    "translation": "To solve it you must grasp the essence of the problem.",
+    "grammar": [
+      {
+        "segment": "문제의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "본질을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "맥락",
+    "romanization": "maengnak",
+    "meaning": "context",
+    "sentence": "맥락을 이해하지 못하면 오해가 생겨요.",
+    "translation": "Without understanding context misunderstandings arise.",
+    "grammar": [
+      {
+        "segment": "맥락을",
+        "marker": "object 을",
+        "color": "green"
+      },
+      {
+        "segment": "오해가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "통찰",
+    "romanization": "tongchal",
+    "meaning": "insight",
+    "sentence": "깊은 통찰에서 좋은 아이디어가 나와요.",
+    "translation": "Good ideas come from deep insight.",
+    "grammar": [
+      {
+        "segment": "통찰에서",
+        "marker": "source 에서",
+        "color": "purple"
+      },
+      {
+        "segment": "아이디어가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "여운",
+    "romanization": "yeoun",
+    "meaning": "lingering feeling, emotional aftertaste",
+    "sentence": "그 영화의 여운이 오래 남았어요.",
+    "translation": "The lingering impression of that movie stayed long.",
+    "grammar": [
+      {
+        "segment": "영화의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "여운이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "허전하다",
+    "romanization": "heojeondada",
+    "meaning": "to feel emotionally empty or hollow",
+    "sentence": "친구가 이사 가서 마음이 허전해요.",
+    "translation": "My friend moved away so I feel emotionally hollow.",
+    "grammar": [
+      {
+        "segment": "친구가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "마음이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "뉘앙스",
+    "romanization": "nuiangsu",
+    "meaning": "nuance",
+    "sentence": "언어의 뉘앙스를 이해하는 건 어려워요.",
+    "translation": "Understanding the nuances of a language is difficult.",
+    "grammar": [
+      {
+        "segment": "언어의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "뉘앙스를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "역설",
+    "romanization": "yeokseol",
+    "meaning": "paradox, irony",
+    "sentence": "역설적이게도 더 쉬어야 더 생산적이에요.",
+    "translation": "Paradoxically you have to rest more to be more productive.",
+    "grammar": [
+      {
+        "segment": "역설적이게도",
+        "marker": "manner adverb + 도 (even)",
+        "color": "orange"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "모순",
+    "romanization": "mosun",
+    "meaning": "contradiction",
+    "sentence": "그 주장에는 모순이 있어요.",
+    "translation": "There is a contradiction in that argument.",
+    "grammar": [
+      {
+        "segment": "주장에는",
+        "marker": "location 에 + topic 는",
+        "color": "purple"
+      },
+      {
+        "segment": "모순이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "아이러니",
+    "romanization": "aireoni",
+    "meaning": "irony",
+    "sentence": "아이러니하게도 힘든 시간이 나를 성장시켰어요.",
+    "translation": "Ironically hard times made me grow.",
+    "grammar": [
+      {
+        "segment": "아이러니하게도",
+        "marker": "manner adverb",
+        "color": "orange"
+      },
+      {
+        "segment": "나를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "함축",
+    "romanization": "hamchuk",
+    "meaning": "implication, connotation",
+    "sentence": "그 말에는 깊은 함축이 담겨 있어요.",
+    "translation": "Those words carry deep implications.",
+    "grammar": [
+      {
+        "segment": "말에는",
+        "marker": "location 에 + topic 는",
+        "color": "purple"
+      },
+      {
+        "segment": "함축이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "공허하다",
+    "romanization": "gonghohada",
+    "meaning": "to feel empty, hollow",
+    "sentence": "성공했지만 이상하게 공허해요.",
+    "translation": "I succeeded but strangely feel empty.",
+    "grammar": [],
+    "level": 9
+  },
+  {
+    "word": "충족하다",
+    "romanization": "chunjokhada",
+    "meaning": "to satisfy, fulfil",
+    "sentence": "이 직업이 제 기대를 충족해요.",
+    "translation": "This job satisfies my expectations.",
+    "grammar": [
+      {
+        "segment": "이 직업이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "기대를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "안도하다",
+    "romanization": "andohada",
+    "meaning": "to feel relieved",
+    "sentence": "시험이 끝나서 안도했어요.",
+    "translation": "I felt relieved when the exam ended.",
+    "grammar": [
+      {
+        "segment": "시험이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "미묘하다",
+    "romanization": "mimyohada",
+    "meaning": "to be subtle, delicate",
+    "sentence": "두 단어의 차이가 미묘해요.",
+    "translation": "The difference between the two words is subtle.",
+    "grammar": [
+      {
+        "segment": "두 단어의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "차이가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "심오하다",
+    "romanization": "simohada",
+    "meaning": "to be profound, deep",
+    "sentence": "그 시의 의미가 심오해요.",
+    "translation": "The meaning of that poem is profound.",
+    "grammar": [
+      {
+        "segment": "시의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "의미가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "복잡하다",
+    "romanization": "bokjapada",
+    "meaning": "to be complicated, complex",
+    "sentence": "이 문제가 생각보다 복잡해요.",
+    "translation": "This problem is more complicated than I thought.",
+    "grammar": [
+      {
+        "segment": "이 문제가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "어이없다",
+    "romanization": "eoieoptda",
+    "meaning": "to be absurd, dumbfounding",
+    "sentence": "그 말이 어이없어서 말이 안 나왔어요.",
+    "translation": "Those words were so absurd I was speechless.",
+    "grammar": [
+      {
+        "segment": "그 말이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 9
+  },
+  {
+    "word": "발이 넓다",
+    "romanization": "bari neolda",
+    "meaning": "to have a wide network (lit. wide feet)",
+    "sentence": "발이 넓어서 모르는 사람이 없어요.",
+    "translation": "Her network is so wide there's no one she doesn't know.",
+    "grammar": [
+      {
+        "segment": "발이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "눈에 띄다",
+    "romanization": "nune ttida",
+    "meaning": "to stand out, catch the eye",
+    "sentence": "빨간 옷이 눈에 띄었어요.",
+    "translation": "The red clothes stood out.",
+    "grammar": [
+      {
+        "segment": "빨간 옷이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "손이 크다",
+    "romanization": "soni keuda",
+    "meaning": "to be generous (lit. big hands)",
+    "sentence": "우리 엄마는 손이 커서 음식을 많이 해요.",
+    "translation": "My mom is generous so she makes a lot of food.",
+    "grammar": [
+      {
+        "segment": "손이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "입이 무겁다",
+    "romanization": "ibi mugeopda",
+    "meaning": "to be discreet (lit. heavy mouth)",
+    "sentence": "입이 무거운 사람에게 비밀을 털어놓아요.",
+    "translation": "I confide secrets to discreet people.",
+    "grammar": [
+      {
+        "segment": "사람에게",
+        "marker": "recipient 에게",
+        "color": "purple"
+      },
+      {
+        "segment": "비밀을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "배가 아프다",
+    "romanization": "baega apeuda",
+    "meaning": "to be jealous (lit. stomach hurts)",
+    "sentence": "친구가 성공하니까 배가 아파요.",
+    "translation": "My friend's success makes me jealous.",
+    "grammar": [
+      {
+        "segment": "친구가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "배가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "뒤통수를 치다",
+    "romanization": "dwitongsurul chida",
+    "meaning": "to stab in the back (lit. hit back of head)",
+    "sentence": "믿었던 친구가 뒤통수를 쳤어요.",
+    "translation": "A friend I trusted stabbed me in the back.",
+    "grammar": [
+      {
+        "segment": "친구가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "뒤통수를",
+        "marker": "object 를",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "세월이 약이다",
+    "romanization": "sewori yagida",
+    "meaning": "time heals all wounds",
+    "sentence": "힘들 때는 세월이 약이에요.",
+    "translation": "When times are tough time is the remedy.",
+    "grammar": [
+      {
+        "segment": "힘들 때는",
+        "marker": "time 때 + topic 는",
+        "color": "orange"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "깨닫다",
+    "romanization": "kkaedatda",
+    "meaning": "to realize, come to understand",
+    "sentence": "늦게서야 진실을 깨달았어요.",
+    "translation": "I only realized the truth late.",
+    "grammar": [
+      {
+        "segment": "늦게서야",
+        "marker": "emphatic time 서야 (only then)",
+        "color": "orange"
+      },
+      {
+        "segment": "진실을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "음미하다",
+    "romanization": "eummihada",
+    "meaning": "to savour, appreciate deeply",
+    "sentence": "하루의 끝에 오늘을 음미해요.",
+    "translation": "At the end of the day I savour today.",
+    "grammar": [
+      {
+        "segment": "하루의 끝에",
+        "marker": "location 에",
+        "color": "purple"
+      },
+      {
+        "segment": "오늘을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "철학",
+    "romanization": "cheolhak",
+    "meaning": "philosophy",
+    "sentence": "철학은 삶의 근본적인 질문을 다루어요.",
+    "translation": "Philosophy deals with fundamental questions of life.",
+    "grammar": [
+      {
+        "segment": "철학은",
+        "marker": "topic 은",
+        "color": "red"
+      },
+      {
+        "segment": "질문을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "귀가 얇다",
+    "romanization": "gwiga yalda",
+    "meaning": "to be easily swayed (lit. thin ears)",
+    "sentence": "귀가 얇아서 친구 말에 쉽게 흔들려요.",
+    "translation": "I'm easily swayed so friends' words shake me easily.",
+    "grammar": [
+      {
+        "segment": "귀가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "친구 말에",
+        "marker": "cause 에",
+        "color": "purple"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "어깨가 무겁다",
+    "romanization": "eokkaega mugeopda",
+    "meaning": "to feel heavily burdened (lit. heavy shoulders)",
+    "sentence": "책임이 많아 어깨가 무거워요.",
+    "translation": "I have much responsibility so my shoulders feel heavy.",
+    "grammar": [
+      {
+        "segment": "책임이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "어깨가",
+        "marker": "subject 가",
+        "color": "blue"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "발목을 잡다",
+    "romanization": "balmokul japda",
+    "meaning": "to hold someone back (lit. grab the ankle)",
+    "sentence": "과거가 발목을 잡아서 앞으로 나가기 힘들어요.",
+    "translation": "The past holds me back so it's hard to move forward.",
+    "grammar": [
+      {
+        "segment": "과거가",
+        "marker": "subject 가",
+        "color": "blue"
+      },
+      {
+        "segment": "발목을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "입이 가볍다",
+    "romanization": "ibi gabyeopda",
+    "meaning": "to be a blabbermouth (lit. light mouth)",
+    "sentence": "입이 가벼워서 비밀을 못 지켜요.",
+    "translation": "I'm a blabbermouth so I can't keep secrets.",
+    "grammar": [
+      {
+        "segment": "입이",
+        "marker": "subject 이",
+        "color": "blue"
+      },
+      {
+        "segment": "비밀을",
+        "marker": "object 을",
+        "color": "green"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "눈이 높다",
+    "romanization": "nuni nopda",
+    "meaning": "to have high standards (lit. high eyes)",
+    "sentence": "눈이 높아서 마음에 드는 게 없어요.",
+    "translation": "My standards are so high nothing satisfies me.",
+    "grammar": [
+      {
+        "segment": "눈이",
+        "marker": "subject 이",
+        "color": "blue"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "그림의 떡",
+    "romanization": "geurimui tteok",
+    "meaning": "something out of reach (lit. rice cake in a picture)",
+    "sentence": "그 차는 내게 그림의 떡이에요.",
+    "translation": "That car is completely out of my reach.",
+    "grammar": [
+      {
+        "segment": "그림의",
+        "marker": "possessive 의",
+        "color": "orange"
+      },
+      {
+        "segment": "내게",
+        "marker": "recipient 에게",
+        "color": "purple"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "하늘의 별 따기",
+    "romanization": "haneulue byeol ttagi",
+    "meaning": "extremely difficult (lit. picking stars from the sky)",
+    "sentence": "그 대학교 입학은 하늘의 별 따기예요.",
+    "translation": "Getting into that university is like picking stars from the sky.",
+    "grammar": [
+      {
+        "segment": "그 대학교 입학은",
+        "marker": "topic 은",
+        "color": "red"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "산 넘어 산",
+    "romanization": "san neomeo san",
+    "meaning": "obstacle after obstacle (lit. mountain over mountain)",
+    "sentence": "이 프로젝트는 산 넘어 산이에요.",
+    "translation": "This project is one obstacle after another.",
+    "grammar": [
+      {
+        "segment": "이 프로젝트는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "식은 죽 먹기",
+    "romanization": "sigeun juk meokgi",
+    "meaning": "a piece of cake (lit. eating cold porridge)",
+    "sentence": "이 문제는 식은 죽 먹기예요.",
+    "translation": "This problem is a piece of cake.",
+    "grammar": [
+      {
+        "segment": "이 문제는",
+        "marker": "topic 는",
+        "color": "red"
+      }
+    ],
+    "level": 10
+  },
+  {
+    "word": "발 벗고 나서다",
+    "romanization": "bal beotgo naseoda",
+    "meaning": "to go all-in to help (lit. take off shoes and step forward)",
+    "sentence": "발 벗고 나서서 도와줬어요.",
+    "translation": "He rolled up his sleeves and helped.",
+    "grammar": [
+      {
+        "segment": "발 벗고 나서서",
+        "marker": "sequential connector",
+        "color": "orange"
+      }
+    ],
+    "level": 10
+  }
+]
